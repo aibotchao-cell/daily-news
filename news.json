@@ -1,54 +1,78 @@
 {
- "generated": "2026-11-11T00:12:41.033169+08:00",
- "now": "2026-11-11 00:12",
+ "generated": "2026-11-11T07:00:30.393443+08:00",
+ "now": "2026-11-11 07:00",
  "football": [
   {
-   "dt": "2026-11-10T15:08:24+00:00",
-   "title": "Crystal Palace could avoid significant compensation if Pierre Sage rejoins Lens",
-   "link": "https://www.theguardian.com/football/2026/nov/10/pierre-sage-crystal-palace-premier-league-lens",
-   "desc": "Sage’s exit from Premier League club still not confirmed Manager’s potential return to France could benefit Palace Crystal Palace could avoid having to pay Pierre Sage significant compensation if he is re-appointed by former club Lens, with the Frenchman’s departure from Selhurst Park still yet to be confirmed. The decision to sack Sage was made on Sunday evening after Palace slumped to a 3-1 defeat against Liverpool . It was their fourth successive loss in the Premier League and left them bottom of the table for the first time since 2017. Continue reading...",
-   "src": "Guardian Football",
-   "lead": "Sage’s exit from Premier League club still not confirmed Manager’s potential return to France could benefit Palace Crystal Palace could avoid having to pay Pierre Sage significant compensation if he is re-appointed by former club Lens, with the Frenchman’s departure from Selhurst Park still yet to be confirmed."
-  },
-  {
-   "dt": "2026-11-10T15:00:00+00:00",
-   "title": "Man Utd Q&A: Carrick, Poch, INEOS and more answered",
-   "link": "https://www.skysports.com/football/news/11095/13610675/man-utd-qa-michael-carrick-mauricio-pochettino-ineos-and-more-kaveh-solhekol-answers-your-questions",
-   "desc": "Kaveh Solhekol has answered your latest questions on Manchester United, with Michael Carrick's future up in the air, the club in the relegation zone and more issues behind the scenes.",
-   "src": "Sky Sports Football",
-   "lead": "Manchester United currently sit in the relegation zone in the Premier League and Michael Carrick's future is up in the air. Sky Sports News' Kaveh Solhekol answers your questions about the state of the club, the ownership and much more..."
-  },
-  {
-   "dt": "2026-11-10T14:36:21+00:00",
-   "title": "Birthdays and broken lamps - at home with the Charles brothers",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c615je0lgleqo?at_medium=RSS&at_campaign=rss",
-   "desc": "Before Northern Ireland's Nations League matches, BBC Sport joins Shea and Pierce Charles at their London home to discuss birthdays, steak sandwiches and starring for Michael O'Neill's young team.",
+   "dt": "2026-11-10T22:29:00+00:00",
+   "title": "72+: The EFL Podcast",
+   "link": "https://www.bbc.co.uk/sounds/play/p0pmc96j?at_medium=RSS&at_campaign=rss",
+   "desc": "Former Bromley boss Andy Woodman joins Aaron and Jobi.",
    "src": "BBC Sport Football",
-   "lead": "Pierce Charles can't help but smile as he waits for Shea to walk into the kitchen. It's Shea's 23rd birthday and he has a cake to surprise him, something he knows will embarrass his older brother. Right on cue, he gets the response that he was looking for as Shea has a sheepish smile, and Pierce launches into a rendition of 'Happy Birthday' for the cameras."
+   "lead": "Use BBC.com or the new BBC App to listen to BBC podcasts, Radio 4 and the World Service outside the UK. Former Bromley boss Andy Woodman joins Aaron and Jobi. He lifts the lid on life after leaving Bromley and what’s next for him. They discuss the top of the Championship, with just 1 point separating the top 5."
   },
   {
-   "dt": "2026-11-10T14:30:00+00:00",
-   "title": "Spurs latest: Simons reveals emotional toll of injury as he eyes early return",
-   "link": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+   "dt": "2026-11-10T22:17:53+00:00",
+   "title": "Leicester and Brentford U21 into trophy knockout stage",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cjqlnllkyzd5o?at_medium=RSS&at_campaign=rss",
+   "desc": "Brentford U21 and League One side Leicester City move into the knockout stages of the Jersey Mike's Trophy with vital victories.",
+   "src": "BBC Sport Football",
+   "lead": "Brentford U21 and League One side Leicester City both moved into the knockout stages of the Jersey Mike's Trophy with vital victories. The Bees had to beat the Football League's basement side Crawley Town in their final fixture in Southern Group H to progress and did so courtesy of a Domeiro Bobb-Semple double in a 2-1 success at Broadfield Stadium, where Co…"
+  },
+  {
+   "dt": "2026-11-10T22:05:43+00:00",
+   "title": "Fujino’s double sparks WCL comeback win for Manchester City against Inter",
+   "link": "https://www.theguardian.com/football/2026/nov/10/inter-manchester-city-womens-champions-league-match-report",
+   "desc": "Manchester City’s European campaign finally came roaring into life as they put four goals past Inter to record their first Women’s Champions League victory of the season and greatly improve their prospects of reaching the knockout stages. The English side had to come from behind after a slow start but two goals from Aoba Fujino put them ahead before half-time, and second-half efforts from Kerstin Casparij and Grace Clinton gave them a 4-1 victory in Monza that doubled their points tally, after their draws against Bayern Munich, Real Madrid and Paris Saint-Germain. Continue reading...",
+   "src": "Guardian Football",
+   "lead": "Manchester City’s European campaign finally came roaring into life as they put four goals past Inter to record their first Women’s Champions League victory of the season and greatly improve their prospects of reaching the knockout stages."
+  },
+  {
+   "dt": "2026-11-10T22:05:15+00:00",
+   "title": "Man City thrash Inter to claim first CL win of season",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cwzd6d9zrlz7o?at_medium=RSS&at_campaign=rss",
+   "desc": "Manchester City come from behind to beat Inter Milan in style for their first Champions League win of the season.",
+   "src": "BBC Sport Football",
+   "lead": "Manchester City come from behind to beat Inter Milan in style for their first Champions League win of the season. MATCH REPORT: WUCL - Inter Milan 1-4 Manchester City"
+  },
+  {
+   "dt": "2026-11-10T21:00:00+00:00",
+   "title": "Chelsea latest: 'Blues join race to sign Arsenal midfielder'",
+   "link": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
    "desc": "",
    "src": "Sky Sports Football",
    "lead": ""
   },
   {
-   "dt": "2026-11-10T14:17:04+00:00",
-   "title": "Kompany back at Bayern training after collapse",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c674p4el33wno?at_medium=RSS&at_campaign=rss",
-   "desc": "Bayern Munich say head coach Vincent Kompany is \"on the road to recovery\" following his recent collapse and treatment in hospital.",
-   "src": "BBC Sport Football",
-   "lead": "Head coach Vincent Kompany has returned to Bayern Munich's training ground after collapsing at the end of last month. The 40-year-old former Manchester City captain was taken to hospital after falling ill while watching the club's second team train."
+   "dt": "2026-11-10T20:00:00+00:00",
+   "title": "Brentford latest: Bees fail with Igor Thiago red card appeal",
+   "link": "https://www.skysports.com/football/live-blog/11095/13279280/brentford-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+   "desc": "",
+   "src": "Sky Sports Football",
+   "lead": ""
   },
   {
-   "dt": "2026-11-10T14:14:26+00:00",
-   "title": "Managerial 'inconsistency' hurting Ghana - Hughton",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cwd09pkg2ev9o?at_medium=RSS&at_campaign=rss",
-   "desc": "As Ghana head into crucial Afcon 2027 qualifiers with women's coach Kim Bjorkegren in charge, former boss Chris Hughton says constant changes in the dugout are hurting the Black Stars.",
-   "src": "BBC Sport Football",
-   "lead": "As Ghana prepare for two make-or-break 2027 Africa Cup of Nations (Afcon) qualifiers with women's coach Kim Bjorkegren in temporary charge, former boss Chris Hughton has called for greater consistency in the Black Stars dugout."
+   "dt": "2026-11-10T19:54:51+00:00",
+   "title": "McTominay reveals heart treatment two days before Scotland’s World Cup opener",
+   "link": "https://www.theguardian.com/football/2026/nov/10/mctominay-reveals-heart-treatment-two-days-before-scotlands-world-cup-opener",
+   "desc": "Midfielder was in hospital before Haiti match ‘I had to get the shock on my heart,’ says McTominay Scott McTominay has revealed he was in hospital under sedation to have a “shock on my heart” just 48 hours before Scotland began their World Cup campaign against Haiti in June. At the time McTominay’s absence from training was put down to a stomach complaint. It emerged in August that the Napoli midfielder needed surgery to remedy an irregular heartbeat. The operation took place in September, causing McTominay to miss Scotland’s first four Nations League matches. The player has now said the matter arose in the US as Scotland prepared for their World Cup opener at Boston Stadium. Continue reading...",
+   "src": "Guardian Football",
+   "lead": "Midfielder was in hospital before Haiti match ‘I had to get the shock on my heart,’ says McTominay Scott McTominay has revealed he was in hospital under sedation to have a “shock on my heart” just 48 hours before Scotland began their World Cup campaign against Haiti in June. At the time McTominay’s absence from training was put down to a stomach complaint."
+  },
+  {
+   "dt": "2026-11-10T19:03:04+00:00",
+   "title": "Firing a manager is often more about maintaining the illusion of control",
+   "link": "https://www.theguardian.com/football/2026/nov/10/michael-carrick-firing-managers-premier-league",
+   "desc": "In an era of advanced analytics, deciding when to move on from a manager still seems to come down to vibes rather than logic He just had to go. His position had become untenable. Leander Schaerlaeckens is the author of The Long Game: U.S. Men’s Soccer and Its Savage, Four-Decade Journey to the Top, or Thereabouts, which is out now . He teaches at Marist University. Continue reading...",
+   "src": "Guardian Football",
+   "lead": "In an era of advanced analytics, deciding when to move on from a manager still seems to come down to vibes rather than logic He’d run out of time, out of credit, out of chances. This time of year, we live in permanent peril of hearing some version of the above proclaimed with unshakable confidence."
+  },
+  {
+   "dt": "2026-11-10T19:00:00+00:00",
+   "title": "Chelsea frustrated at Hacken in WCL",
+   "link": "https://www.skysports.com/football/bk-hcken-women-vs-chelsea-women/report/578259",
+   "desc": "Chelsea remain unbeaten in the Women’s Champions League but they were frustrated in a goalless draw at BK Hacken.",
+   "src": "Sky Sports Football",
+   "lead": "BK Häcken Women vs Chelsea Women. Women's Champions League. Match report for the Women's Championship League group stage clash between BH Hacken Women and Chelsea Women; Sonia Bompostor's side stay unbeaten but frustrated with goalless draw in Sweden on Tuesday night."
   },
   {
    "dt": "2026-11-10T22:02:46+08:00",
@@ -57,104 +81,80 @@
    "desc": "台灣女足今順利啟程前往摩洛哥，展開2027國際足總女子世界 盃洲際附加賽賽前移地訓練，雖出發前，代表隊一度面臨簽證未能及時取得的難題，恐影響出國行程。但足協新任理事⻑姚仁...…",
    "src": "自由時報 體育",
    "lead": "〔記者吳孟儒／台北報導〕台灣女足今順利啟程前往摩洛哥，展開2027國際足總女子世界 盃洲際附加賽賽前移地訓練，雖出發前，代表隊一度面臨簽證未能及時取得的難題，恐影響出國行程。但足協新任理事⻑姚仁恭親自致電國際足球總會（FIFA）相關單位，積極溝通協調，最終順利取得所需證件，順利踏上世界盃征途。 面對突發的簽證問題，姚仁恭在掌握狀況後持續與FIFA相關單位聯繫，積極尋求解決方案，盡力降低行政程序對球隊行程及備戰的影響，足協也特別感謝運動部 及外交部對此次代表隊出征的關心與支持，讓球隊能夠順利啟程，將重心重新放回訓練與比賽。 姚仁恭親赴桃園國際機場送機，關心全體隊職員的出發準備與行程安排，並為球員加油打氣。"
-  },
-  {
-   "dt": "2026-11-10T13:58:30+00:00",
-   "title": "Carrick on the brink and Madrid on the charge under Mourinho | Football Weekly video",
-   "link": "https://www.theguardian.com/football/video/2026/nov/10/carrick-on-the-brink-and-madrid-on-the-charge-under-mourinho-football-weekly-video",
-   "desc": "Max Rushden is joined by Nicky Bandini, Archie Rhind-Tutt, Philippe Auclair and Sid Lowe as Michael Carrick looks set to leave Manchester United and for a wrap of the big stories from around Europe. Continue reading...",
-   "src": "Guardian Football",
-   "lead": "Max Rushden is joined by Nicky Bandini, Archie Rhind-Tutt, Philippe Auclair and Sid Lowe as Michael Carrick looks set to leave Manchester United and for a wrap of the big stories from around Europe."
-  },
-  {
-   "dt": "2026-11-10T13:30:00+00:00",
-   "title": "Merson: Man Utd transfer policy is to blame - not Carrick",
-   "link": "https://www.skysports.com/football/news/11095/13610645/man-utds-transfer-policy-to-blame-for-clubs-worst-premier-league-start-and-not-michael-carrick-says-paul-merson",
-   "desc": "Sky Sports' Paul Merson believes Manchester United’s transfer strategy is to blame for their worst start to a top-flight season instead of head coach Michael Carrick.",
-   "src": "Sky Sports Football",
-   "lead": "Michael Carrick's future at Man Utd is in doubt with the club inside the Premier League relegation zone; Mauricio Pochettino would be open to talks with Man Utd if he was approached by club; Sky Sports' Paul Merson says he would be surprised if Carrick was sacked Please use Chrome browser for a more accessible video player Sky Sports' Paul Merson believes Ma…"
-  },
-  {
-   "dt": "2026-11-10T12:00:51+00:00",
-   "title": "Sisters in Sweat: how a former Spurs player got 20,000 Indian women into sport",
-   "link": "https://www.theguardian.com/football/2026/nov/10/sisters-in-sweat-indian-women-sport-moving-the-goalposts",
-   "desc": "A dinner-party question, a Sunday kickabout and an idea that snowballed. Nine years on, Tanvie Hans and Swetha Subbiah have taken sporting sisterhood to 10 cities On a breezy evening in 2017, as conversations flowed and so did the drinks at a dinner party, Tanvie Hans was asked an all-too-familiar question at the table: “Hey, can you teach me how to play football?” For the Indian-born British footballer, who played professionally in England, it was an easy yes. Continue reading...",
-   "src": "Guardian Football",
-   "lead": "A dinner-party question, a Sunday kickabout and an idea that snowballed. Nine years on, Tanvie Hans and Swetha Subbiah have taken sporting sisterhood to 10 cities O n a breezy evening in 2017, as conversations flowed and so did the drinks at a dinner party, Tanvie Hans was asked an all-too-familiar question at the table: “Hey, can you teach me how to play fo…"
   }
  ],
  "finance": [
   {
-   "dt": "2026-11-10T16:04:49+00:00",
+   "dt": "2026-11-10T22:58:31+00:00",
+   "title": "Toyota Plans to Sell a Kei Pickup Truck in the U.S.",
+   "link": "https://www.nytimes.com/2026/11/10/business/toyota-kei-pickup-truck.html",
+   "desc": "The automaker plans to sell Americans “Kei” pickup trucks, which are very popular in Japan and with U.S. auto enthusiasts. Even President Trump is a fan.",
+   "src": "NYT Business",
+   "lead": "The automaker plans to sell Americans “Kei” pickup trucks, which are very popular in Japan and with U.S. auto enthusiasts. Even President Trump is a fan."
+  },
+  {
+   "dt": "2026-11-11T06:40:05+08:00",
+   "title": "美股收盤》升息機率提高、輝達再挫5.47％ 美股收黑 台積電ADR漲2.02％",
+   "link": "https://ec.ltn.com.tw/article/breakingnews/5636406",
+   "desc": "美國10月通膨降溫幅度小於預期，聯準會（Fed）理事華勒又釋出12月可能升息兩碼的訊號，且輝達大跌5.47%，拖累科技股，美股週二（10日）收低。至於台股ADR漲多跌少。台積電A...…",
+   "src": "自由時報 財經",
+   "lead": "美國10月通膨降溫幅度小於預期，聯準會（Fed）理事華勒又釋出12月可能升息兩碼的訊號，且輝達大跌5.47%，拖累科技股，美股週二（10日）收低。（彭博） 〔即時新聞／綜合報導〕美國10月通膨降溫幅度小於預期，聯準會（Fed）理事華勒又釋出12月可能升息兩碼的訊號，且輝達大跌5.47%，拖累科技股，美股週二（10日）收低。至於台股ADR漲多跌少。台積電ADR上漲2.02%。 美國勞工統計局（BLS）10日公佈，10月消費者物價指數（CPI）月增0.4%高於預期，聯準會理事華勒（Christopher Waller）揚言，如果通膨數據未見改善，考慮12月政策會議支持擴大升息幅度至兩碼，推升美債殖利率。"
+  },
+  {
+   "dt": "2026-11-10T22:03:38+00:00",
+   "title": "Anthropic’s Giant IPO Will Tie It Closer to Nvidia",
+   "link": "https://www.nytimes.com/2026/11/10/business/anthropic-ipo-nvidia.html",
+   "desc": "Nvidia planned to invest $10 billion in Anthropic alongside its initial public offering, the largest of the new financial commitments from several giants to the A.I. company.",
+   "src": "NYT Business",
+   "lead": "Nvidia planned to invest $10 billion in Anthropic alongside its initial public offering, the largest of the new financial commitments from several giants to the A.I. company."
+  },
+  {
+   "dt": "2026-11-11T05:30:00+08:00",
+   "title": "盤勢分析─連日大漲 盤勢轉趨震盪",
+   "link": "https://ec.ltn.com.tw/article/paper/1778094",
+   "desc": "費城半導體指數前天強彈6.85%，激勵台股連2日展開絕地大反攻，大型電子權值股台達電（2308）股價連2日漲停，聯發科（2454）、PCB、矽光子等族群全面噴出，帶動昨日加權指數一度大漲1474.22點，攻上4萬3000點大關，但解套與搶短賣壓大量湧現，外資持續期現貨保守操作，近午盤時漲點一度大幅收…",
+   "src": "自由時報 財經",
+   "lead": "費城半導體指數前天強彈6.85%，激勵台股連2日展開絕地大反攻，大型電子權值股台達電（2308）股價連2日漲停，聯發科（2454）、PCB、矽光子等族群全面噴出，帶動昨日加權指數一度大漲1474.22點，攻上4萬3000點大關，但解套與搶短賣壓大量湧現，外資持續期現貨保守操作，近午盤時漲點一度大幅收斂，台積電（2330）更由紅翻黑，指數上下震盪高達1205.89點，午盤過後買盤重新進場，最後一盤靠著拉抬台積電，加權指數終場大漲1050.22點，收在4萬2711.92點，成交量放大至1.03兆元。"
+  },
+  {
+   "dt": "2026-11-11T03:20:37+08:00",
+   "title": "分析：合格碳權供不應求 全球航空業減排面臨窘境",
+   "link": "https://www.cna.com.tw/news/afe/202611110007.aspx",
+   "desc": "（中央社土耳其安塔利亞10日綜合外電報導）全球首個要求航空公司為碳排付費的國際減碳機制即將落實，但業者與市場分析師警告因市場上符合資格的碳抵換額度極為短缺，全球航空業面臨「買不到碳權履約」窘境。",
+   "src": "中央社 財經",
+   "lead": "（中央社土耳其安塔利亞10日綜合外電報導）全球首個要求航空公司為碳排付費的國際減碳機制即將落實，但業者與市場分析師警告因市場上符合資格的碳抵換額度極為短缺，全球航空業面臨「買不到碳權履約」窘境。 路透社報導，儘管航空業並非全球總排放量最高的單一產業，卻是成長最迅速的碳排來源之一，且永續航空燃料（SAF）目前的減碳成效依然有限。 COP31聯合國氣候峰會9日於土耳其安塔利亞（Antalya）登場，如何為貧困國家籌措氣候調適資金成為爭論焦點，而交通部門減碳正是關鍵議題。"
+  },
+  {
+   "dt": "2026-11-11T02:57:56+08:00",
+   "title": "日月光10月營收威風 業績連四月攻頂 先進封測躍集團投資重心",
+   "link": "https://money.udn.com/money/story/5612/9870474",
+   "desc": "全球半導體封測龍頭日月光投控昨（10）日公布10月合併營收886.2億元，連續四個月改寫單月歷史新高，月增0.6%、年增47.1%，反映AI對先進封測需求強勁；前十月合併營收6,975.02億元，年增32.1%，同期最佳。",
+   "src": "經濟日報",
+   "lead": "全球半導體封測龍頭日月光投控 （3711） 昨（10）日公布10月合併營收886.2億元，連續四個月改寫單月歷史新高，月增0.6%、年增47.1%，反映AI對先進封測需求強勁；前十月合併營收6,975.02億元，年增32.1%，同期最佳。 日月光投控看好，本季營運續揚，已上修今年先進封測（LEAP）營收目標至40億美元，明年力拚倍增，擴產腳步也持續加快。法人以今年目標推算，日月光投控明年先進封測相關業務規模將挑戰80億美元，先進封測在集團營運中的分量持續加重，成為擴充產能與配置投資的重心。 展望本季，日月光投控預估，以1美元兌新台幣31.9元的假設基礎，本季新台幣合併營收將季增6%至8%，合併毛利率介於23%至24%，營益率14.5%至15.5%，年底營運維持成長步調。"
+  },
+  {
+   "dt": "2026-11-11T02:56:19+08:00",
+   "title": "聯發科業績寫最強10月 站穩500億",
+   "link": "https://money.udn.com/money/story/5612/9870476",
+   "desc": "本土IC設計一哥聯發科昨（10）日公布10月合併營收550.2億元，雖然月減0.6%，仍是歷年最強10月，並且連續三個月站穩500億元大關，年增5.7%。聯發科預期，本季在AI加速器業務放量帶動下，儘管第3季基期偏高，營收仍將呈現強勁季增態勢。",
+   "src": "經濟日報",
+   "lead": "本土IC設計一哥聯發科 （2454） 昨（10）日公布10月合併營收550.2億元，雖然月減0.6%，仍是歷年最強10月，並且連續三個月站穩500億元大關，年增5.7%。聯發科預期，本季在AI加速器業務放量帶動下，儘管第3季基期偏高，營收仍將呈現強勁季增態勢。 聯發科前十月合併營收5,244.17億元，年增5.3%。公司預期，本季營收以美元兌新台幣匯率1：31.7估算，將落在2,101億元至2,218億元之間，季增25%至32%，較去年同期成長40%至48%。隨美元近期強勢，法人預期可望更容易達成新台幣營收目標。"
+  },
+  {
+   "dt": "2026-11-11T02:36:32+08:00",
+   "title": "黃仁勳出軌拖累輝達重挫逾6% 市值急縮落後蘋果與微軟",
+   "link": "https://www.cna.com.tw/news/afe/202611110005.aspx",
+   "desc": "（中央社紐約10日綜合外電報導）人工智慧（AI）晶片巨頭輝達執行長黃仁勳日前坦承與疑似中國女間諜有染、董事會對他展開獨立調查後，輝達今天股價大跌逾6%，跌落全球市值次高企業寶座，落後蘋果和微軟。",
+   "src": "中央社 財經",
+   "lead": "（中央社紐約10日綜合外電報導）人工智慧（AI）晶片巨頭輝達執行長黃仁勳日前坦承與疑似中國女間諜有染、董事會對他展開獨立調查後，輝達今天股價大跌逾6%，跌落全球市值次高企業寶座，落後蘋果和微軟。 法新社報導，在格林威治標準時間10日17時15分左右，輝達（NVIDIA）股價大跌6.3%至167.35美元。 自黃仁勳上週末坦承婚外情消息後，輝達市值已蒸發超過4000億美元（約新台幣13.2兆元），從全球市值排行第二降至第三，落後蘋果（Apple）和微軟（Microsoft）。 另據路透社報導，微軟今天市值超越輝達、躍居全球市值第二高企業，為2025年6月以來首見。微軟股價盤中稍早小跌0.4%至543.25美元。（編譯： 洪啓原 ）1151111"
+  },
+  {
+   "dt": "2026-11-10T16:47:05+00:00",
    "title": "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
    "link": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
    "desc": "The report comes at a critical juncture for the Federal Reserve as it considers its next move regarding interest rates.",
    "src": "CNBC Markets",
    "lead": "Costs for goods and services rose more than expected in October, providing fresh warning signs for the Federal Reserve in its fight to lower inflation. The consumer price index , a broad gauge of costs across the U.S. economy, increased a seasonally adjusted 0.4% for the month, the Bureau of Labor Statistics reported Tuesday."
-  },
-  {
-   "dt": "2026-11-10T15:59:29+00:00",
-   "title": "Oil Prices Have Tumbled in November. Here’s Why.",
-   "link": "https://www.nytimes.com/2026/11/09/business/energy-environment/oil-price-iran-trump-war.html",
-   "desc": "The global benchmark price is down more than $20 a barrel since late October, when it traded for around $113.",
-   "src": "NYT Business",
-   "lead": "The global benchmark price is down more than $20 a barrel since late October, when it traded for around $113."
-  },
-  {
-   "dt": "2026-11-10T15:41:01+00:00",
-   "title": "A Fan-Favorite Aquarium Screen Saver Is Leaving Roku",
-   "link": "https://www.nytimes.com/2026/11/10/business/roku-aquatic-life-screensaver-fox.html",
-   "desc": "The Aquatic Life display, a welcome moment of Zen in the frenzied world of TV streaming, will go dark on Dec. 1 after its designer pulled the license.",
-   "src": "NYT Business",
-   "lead": "The Aquatic Life display, a welcome moment of Zen in the frenzied world of TV streaming, will go dark on Dec. 1 after its designer pulled the license."
-  },
-  {
-   "dt": "2026-11-10T22:59:07+08:00",
-   "title": "市場評估黃仁勳婚外情衝擊 輝達早盤股價再跌4%",
-   "link": "https://www.cna.com.tw/news/afe/202611100371.aspx",
-   "desc": "（中央社紐約10日綜合外電報導）美國財經媒體CNBC報導，輝達（Nvidia）執行長黃仁勳與一名疑似為中國間諜的女子發生婚外情，投資人評估這起事件可能造成的後續衝擊，輝達今天早盤股價再跌4%。",
-   "src": "中央社 財經",
-   "lead": "（中央社紐約10日綜合外電報導）美國財經媒體CNBC報導，輝達（Nvidia）執行長黃仁勳與一名疑似為中國間諜的女子發生婚外情，投資人評估這起事件可能造成的後續衝擊，輝達今天早盤股價再跌4%。 輝達股價昨天收盤下跌逾4%。就在上週日，黃仁勳透過電子郵件告知員工，他曾對妻子不忠，也未能充分履行執行長的職責。（編譯： 陳正健 ）1151110"
-  },
-  {
-   "dt": "2026-11-10T22:51:16+08:00",
-   "title": "通膨仍火熱！美CPI月增0.4％高於預期 Fed理事華勒挺擴大升息至2碼",
-   "link": "https://ec.ltn.com.tw/article/breakingnews/5636338",
-   "desc": "美國勞工統計局（BLS）10日公佈，10月消費者物價指數（CPI）經季節性調整月增0.4%，高於道瓊預期的0.3%增幅，顯示聯準會（Fed）抑制通膨的努力出現新警訊。聯準會理事...…",
-   "src": "自由時報 財經",
-   "lead": "〔編譯魏國金／台北報導〕美國勞工統計局（BLS）10日公佈，10月消費者物價指數（CPI）經季節性調整月增0.4%，高於道瓊預期的0.3%增幅，顯示聯準會（Fed）抑制通膨的努力出現新警訊。聯準會理事華勒（Christopher Waller）已揚言，如果通膨數據未見改善，他考慮12月政策會議支持擴大升息幅度至0.5個百分點（兩碼）。 BLS數據顯示，排除波動較大的食品與能源價格，核心CPI月增0.3%，高於預期的0.2%增幅。該單位沒有公佈年增率，去年美國政府關門，致使未能蒐集2025年10月的足夠數據，因而無法進行年度比較。"
-  },
-  {
-   "dt": "2026-11-10T22:30:53+08:00",
-   "title": "美國10月CPI高於市場預期 聯準會升息壓力增",
-   "link": "https://www.cna.com.tw/news/aopl/202611100366.aspx",
-   "desc": "（中央社紐約10日綜合外電報導）根據美國勞工部今天公布的數據，美國10月消費者物價指數（CPI）月增率較上個月略為放緩，但仍高於分析師預期。",
-   "src": "中央社 財經",
-   "lead": "（中央社紐約10日綜合外電報導）根據美國勞工部今天公布的數據，美國10月消費者物價指數（CPI）月增率較上個月略為放緩，但仍高於分析師預期。 法新社報導，美國勞工部數據顯示，全美10月CPI月增0.4%，低於9月的0.6%增幅。能源價格漲勢較前次報告顯著減緩，但休閒娛樂及醫療照護等類別的價格仍持續上漲。 彭博（Bloomberg News）報導，美國10月核心CPI增幅超出預期，可能使聯邦準備理事會（Fed）按原定步調於下個月升息。 根據美國勞工統計局（BLS）今天公布的數據，扣除食品與能源價格後的核心CPI較前月上漲0.3%，整體物價則上漲0.4%。 聯準會官員將在12月8日至9日舉行政策會議，這是他們會前能看到最後一份CPI報告。投資人預期，聯準會屆時將升息以對抗通膨。"
-  },
-  {
-   "dt": "2026-11-10T22:22:49+08:00",
-   "title": "LINE Pay前3季每股賺6.09元 拓展電支與跨境合作",
-   "link": "https://money.udn.com/money/story/5612/9870362",
-   "desc": "行動支付品牌LINE Pay今天公布2026年前3季財報，合併營收達新台幣64.33億元，年增13%，創歷史新高；歸屬母...",
-   "src": "經濟日報",
-   "lead": "行動支付品牌LINE Pay今天公布2026年前3季財報，合併營收達新台幣64.33億元，年增13%，創歷史新高；歸屬母公司業主淨利4.35億元，年增6%，前3季每股盈餘6.09元。LINE Pay表示，將持續拓展電子支付場景與深化韓國跨境合作。 展望第4季，LINE Pay發布新聞稿說明，適逢百貨週年慶與電商購物節，國人海外旅遊需求維持熱絡，支付需求可望升溫；LINE Pay將持續深化支付服務、拓展多元應用場景，並提升營運效率，為長期穩健成長奠定基礎。 LINE Pay指出，子公司電子支付LINE Pay Money於代收付、儲值、轉帳3大核心業務持續居同業之冠，且業務金額逐月提升，用戶數已突破450萬戶並維持穩定成長，顯示整體業務規模與用戶基礎同步擴大。"
-  },
-  {
-   "dt": "2026-11-10T22:21:54+08:00",
-   "title": "藍天前3季每股賺4.09元 明年首季推RTX Spark新機",
-   "link": "https://money.udn.com/money/story/5612/9870358",
-   "desc": "筆記型電腦製造商藍天電腦今天公布前3季財報，合併營收達新台幣172.3億元，年增13%；歸屬母公司業主淨利23.65億元...",
-   "src": "經濟日報",
-   "lead": "筆記型電腦製造商藍天電腦今天公布前3季財報，合併營收達新台幣172.3億元，年增13%；歸屬母公司業主淨利23.65億元，每股盈餘4.09元，年增2.6倍。藍天將於2027年第1季推出RTX Spark新機，強化人工智慧個人電腦（AIPC）布局。 受整體大環境衝擊，藍天筆電事業第3季成長動能承壓，筆電營收49.3億元，季減15%，前3季筆電總出貨量87.3萬台，年減20%，受惠平均售價（ASP）大幅拉升及匯率有利因素，累計前3季筆電營收149.3億元，年增15%。 藍天發布新聞稿指出，透過節能、散熱、降噪等差異化設計，提供客製化服務滿足百位客戶需求，在主要零組件缺料及成本大幅上揚的筆電產業逆風中，營收仍能維持雙位數成長。"
-  },
-  {
-   "dt": "2026-11-10T22:08:39+08:00",
-   "title": "黃仁勳人設崩塌「誰還敢相信他的承諾？」華爾街4大質疑直擊痛點",
-   "link": "https://ec.ltn.com.tw/article/breakingnews/5636301",
-   "desc": "〔財經頻道／綜合報導〕輝達過去備受讚譽的首席執行長黃仁勳深陷困境，因為他承認與一名據稱是中國間諜的人有婚外情，背叛了他結婚四十多年的妻子。華爾街知名分析師和媒體專家布萊恩·索齊（Brian So...…",
-   "src": "自由時報 財經",
-   "lead": "〔財經頻道／綜合報導〕輝達過去備受讚譽的首席執行長黃仁勳深陷困境，因為他承認與一名據稱是中國間諜的人有婚外情，背叛了他結婚四十多年的妻子。華爾街知名分析師和媒體專家布萊恩·索齊（Brian Sozzi）在撰文指出，黃仁勳已經失去外界對他的信任，他提出黃仁勳難以再讓人相信他的至少四點質疑。輝達現在正面臨著自1993年成立以來，可以說是第一次真正的危機。 布萊恩·索齊寫道：「毋庸置疑，這場危機是黃仁勳一手造成的，原本是可以避免的；而這一切歸根究底都與信任有關。"
   },
   {
    "dt": "2026-11-10T10:24:13+00:00",
@@ -172,28 +172,36 @@
    "flag": "🇺🇸",
    "items": [
     {
-     "dt": "2026-11-10T15:45:06+00:00",
-     "title": "Nvidia CEO Jensen Huang Told Trump He Did Not Know Chinese Woman Was Suspected Spy",
-     "link": "https://www.nytimes.com/2026/11/09/us/politics/trump-jensen-huang-spy.html",
-     "desc": "President Trump told reporters Monday that he believed Jensen Huang’s account and said he did not recall receiving a briefing warning him about Mr. Huang’s liaison.",
+     "dt": "2026-11-10T22:48:42+00:00",
+     "title": "Trump Officials Drop Threat to Colorado School District Over Transgender Issues",
+     "link": "https://www.nytimes.com/2026/11/10/us/politics/trump-colorado-transgender.html",
+     "desc": "Trump administration officials had accused the district of allowing boys on girls’ teams, which they said violated a ban on sex discrimination in schools.",
      "src": "NYT Politics",
-     "lead": "President Trump told reporters Monday that he believed Jensen Huang’s account and said he did not recall receiving a briefing warning him about Mr. Huang’s liaison."
+     "lead": "Trump administration officials had accused the district of allowing boys on girls’ teams, which they said violated a ban on sex discrimination in schools."
     },
     {
-     "dt": "2026-11-10T15:42:24+00:00",
+     "dt": "2026-11-10T22:46:11+00:00",
+     "title": "Kennedys Move to Block Trump’s Arch, Saying It Would Disturb J.F.K. Gravesite",
+     "link": "https://www.nytimes.com/2026/11/10/us/politics/kennedy-trump-arch-lawsuit.html",
+     "desc": "The legal filing argues that the arch would cast a shadow on Kennedy family graves and disrupt the sightline from the eternal flame memorializing the former president.",
+     "src": "NYT Politics",
+     "lead": "The legal filing argues that the arch would cast a shadow on Kennedy family graves and disrupt the sightline from the eternal flame memorializing the former president."
+    },
+    {
+     "dt": "2026-11-10T22:37:44+00:00",
      "title": "Here’s the latest.",
-     "link": "https://www.nytimes.com/live/2026/11/10/us/hegseth-impeachment-congress/heres-the-latest",
+     "link": "https://www.nytimes.com/live/2026/11/10/us/hegseth-impeachment-vote-house/heres-the-latest",
      "desc": "",
      "src": "NYT Politics",
-     "lead": "Defense Secretary Pete Hegseth dismissed the articles of impeachment as the work of a “disgruntled” Republican congressman. House G.O.P. leaders set an afternoon vote that could tie up, or kill off, the measure."
+     "lead": "The House is voting on a motion to refer the impeachment articles to a committee, blocking them from coming to a final vote. The House is voting Tuesday on whether to shelve the effort to impeach Defense Secretary Pete Hegseth, as Republicans work to head off the bid to charge him with high crimes."
     },
     {
-     "dt": "2026-11-10T15:30:06+00:00",
-     "title": "What to Know About Thomas Massie, Leader of Drive to Impeach Hegseth",
-     "link": "https://www.nytimes.com/2026/11/10/us/thomas-massie-impeachment-hegseth.html",
-     "desc": "Representative Thomas Massie, Republican of Kentucky, is retiring at the end of his term after losing to a primary challenger backed by President Trump.",
-     "src": "NYT US",
-     "lead": "Representative Thomas Massie, Republican of Kentucky, is retiring at the end of his term after losing to a primary challenger backed by President Trump."
+     "dt": "2026-11-10T12:06:50-05:00",
+     "title": "Wes Moore wants immigration reform. Can he work with Stephen Miller?",
+     "link": "https://www.politico.com/news/2026/11/10/gov-wes-moore-sees-an-opportunity-to-work-with-stephen-miller-01158571",
+     "desc": "The possible 2028 contender told POLITICO that Democrats should try to work with the president’s new chief of staff despite a “well of distrust.”",
+     "src": "Politico",
+     "lead": "The possible 2028 contender told POLITICO that Democrats should try to work with the president’s new chief of staff despite a “well of distrust.”"
     },
     {
      "dt": "2026-11-10T10:00:00-05:00",
@@ -202,14 +210,6 @@
      "desc": "Democrats have won unified control of enough swing states — Pennsylvania, Wisconsin, and Michigan — to sidestep the Electoral College. Will they back the effort?",
      "src": "Politico",
      "lead": "Democrats have won unified control of enough swing states — Pennsylvania, Wisconsin, and Michigan — to sidestep the Electoral College. Will they back the effort?"
-    },
-    {
-     "dt": "2026-11-10T05:55:00-05:00",
-     "title": "A new set of Democratic power brokers just dropped before 2028",
-     "link": "https://www.politico.com/news/2026/11/10/new-democratic-leaders-2028-elections-01157824",
-     "desc": "Presidential hopefuls are already working the phones to build relationships with the new slate of Democratic figures in key early states.",
-     "src": "Politico",
-     "lead": "Presidential hopefuls are already working the phones to build relationships with the new slate of Democratic figures in key early states."
     }
    ]
   },
@@ -219,44 +219,44 @@
    "flag": "🇨🇳",
    "items": [
     {
+     "dt": "2026-11-10T22:39:46+00:00",
+     "title": "How Asian-American campaigners helped turn the US deep-red South blue",
+     "link": "https://www.scmp.com/news/china/diplomacy/article/3374001/how-asian-american-campaigners-helped-turn-us-deep-red-south-blue",
+     "desc": "On tote bags distributed by Asian-owned businesses in the US state of Georgia, three Asian-American women appeared in a design inspired by the Three Ladies rice brand. The bags were part of a campaign that put a voting twist on the online “Asian baby girl” meme. “We had an ‘Asian Ballot Girls’ campaign,” said Chany Chea, programme director of the Asian-American Advocacy Fund. “We had merch which went viral.” As Democrats won races in Republican strongholds across the southern United States in...",
+     "src": "SCMP China",
+     "lead": "Asian-American organisers in Georgia, Texas and North Carolina drew on years of local community engagement to spur Democrats on to victory “We had an ‘Asian Ballot Girls’ campaign,” said Chany Chea, programme director of the Asian-American Advocacy Fund. “We had merch which went viral.”"
+    },
+    {
+     "dt": "2026-11-10T22:00:10+00:00",
+     "title": "PLA cybersecurity scientist Guo Shize removed from Chinese Academy of Sciences website",
+     "link": "https://www.scmp.com/news/china/science/article/3373975/pla-cybersecurity-scientist-guo-shize-removed-chinese-academy-sciences-website",
+     "desc": "A leading cybersecurity scientist in the Chinese military, Guo Shize, has been removed from the website of the country’s top national research institute. Guo, 57, a researcher at the Information Technology Security Research Centre of the People’s Liberation Army, was elected to the Chinese Academy of Sciences (CAS) in 2023. It is not known when his page was removed from the academy’s website, but Chinese media reports noted the change on Monday. Neither the academy nor Beijing’s defence ministry...",
+     "src": "SCMP China",
+     "lead": "Guo and his two roommates at Harbin Institute of Technology all rose to become prominent academicians at top Chinese scientific institutions A leading cybersecurity scientist in the Chinese military, Guo Shize, has been removed from the website of the country’s top national research institute."
+    },
+    {
+     "dt": "2026-11-10T21:30:07+00:00",
+     "title": "China-Asean partnership is helping build common home and shared future",
+     "link": "https://www.scmp.com/opinion/china-opinion/article/3373793/china-asean-partnership-helping-build-common-home-and-shared-future",
+     "desc": "On November 22, 2021, President Xi Jinping and the leaders of the Association of Southeast Asian Nations (Asean) jointly announced the establishment of a China-Asean Comprehensive Strategic Partnership, marking a new milestone in the history of this important relationship. Guided by the vision of a closer community with a shared future and with sustained efforts to build a peaceful, secure, prosperous, beautiful and amicable region as our common home, China and Asean have jointly nurtured one of...",
+     "src": "SCMP China",
+     "lead": "China and Asean have jointly nurtured one of the world’s most dynamic, fruitful and substantive dialogue partnerships over the past five years Guided by the vision of a closer community with a shared future and with sustained efforts to build a peaceful, secure, prosperous, beautiful and amicable region as our common home, China and Asean have jointly nurtur…"
+    },
+    {
+     "dt": "2026-11-10T20:49:11+00:00",
+     "title": "China mocks US ‘congratulations’ over Dominican closure of Chinese-run factory",
+     "link": "https://www.scmp.com/news/china/diplomacy/article/3374000/china-mocks-us-congratulations-over-dominican-closure-chinese-run-factory",
+     "desc": "China’s embassy in Santo Domingo accused the United States on Monday evening of “sinister intentions” and mocked Washington for “congratulating” the Dominican Republic on closing a Chinese-run cardboard factory. The rebuke came hours after Juan Pablo Segura, who leads the US State Department’s Bureau of Western Hemisphere Affairs, praised Dominican authorities on social media for “taking decisive action to shut down a massive, illegal, Chinese-operated cardboard factory”. Operating without...",
+     "src": "SCMP China",
+     "lead": "Beijing’s embassy hits back at State Department official Juan Pablo Segura for praising shutdown of the Chinese-operated Cartesa plant The rebuke came hours after Juan Pablo Segura, who leads the US State Department’s Bureau of Western Hemisphere Affairs, praised Dominican authorities on social media for “taking decisive action to shut down a massive, illega…"
+    },
+    {
      "dt": "2026-11-10T15:00:11+00:00",
      "title": "Will Nvidia CEO Jensen Huang’s affair become another ‘spy balloon’ saga for US-China ties?",
      "link": "https://www.scmp.com/news/china/diplomacy/article/3373986/will-nvidia-ceo-jensen-huangs-affair-become-another-spy-balloon-saga-us-china-ties",
      "desc": "China hawks in Washington could weaponise allegations that Nvidia CEO Jensen Huang was targeted by Chinese intelligence, despite denials from Beijing, Chinese experts warn. They said controversy would give US hardliners fresh ammunition to push for tougher curbs on AI chip exports to China. One of them compared the potential fallout to the 2023 “spy balloon” incident, when the US shot down in its airspace what Beijing said was an off-course weather balloon, putting relations on ice for...",
      "src": "SCMP China",
      "lead": "Allegations could be weaponised by US hardliners, analysts say, as one warns of diplomatic freeze comparable to 2023 balloon row They said controversy would give US hardliners fresh ammunition to push for tougher curbs on AI chip exports to China."
-    },
-    {
-     "dt": "2026-11-10T14:00:10+00:00",
-     "title": "Xi and Trump set for Apec talks, but major deliverables expected to wait for G20",
-     "link": "https://www.scmp.com/news/china/diplomacy/article/3373969/xi-and-trump-set-apec-talks-major-deliverables-expected-wait-g20",
-     "desc": "The presidents of the US and China are set to meet again at next week’s Apec summit, but observers expect few tangible bilateral deliverables to emerge from their talks. The face-to-face meeting between Donald Trump and Xi Jinping will be the third between the two leaders this year, following reciprocal state visits in May and September. They are also expected to meet at the Group of 20 summit in the United States in December. In each case, global markets will be watching closely to see how...",
-     "src": "SCMP China",
-     "lead": "Last week’s midterm election results, a multilateral agenda and persistent trade friction must be factored in, observers say They are also expected to meet at the Group of 20 summit in the United States in December. In each case, global markets will be watching closely to see how Washington and Beijing navigate their protracted trade disputes."
-    },
-    {
-     "dt": "2026-11-10T13:00:28+00:00",
-     "title": "Data link trial: Chinese team finds hollow-core fibre cuts lag 30% across 1,000km",
-     "link": "https://www.scmp.com/news/china/science/article/3373956/data-link-trial-chinese-team-finds-hollow-core-fibre-cuts-lag-30-across-1000km",
-     "desc": "Light travels through conventional optical fibres at about 200,000km per second – about two-thirds the speed it travels in a vacuum – because the signals are passing through solid glass. When vast amounts of data are exchanged between computing centres hundreds or thousands of kilometres apart, this difference amounts to a substantial delay. Now, Chinese researchers have unveiled optical fibre that replaces the solid glass core with air, cutting the data transmission delay by about 30 per cent...",
-     "src": "SCMP China",
-     "lead": "Faster signal speeds between distant data centres could ease bottlenecks for processing demanding AI tasks Light travels through conventional optical fibres at about 200,000km per second – about two-thirds the speed it travels in a vacuum – because the signals are passing through solid glass."
-    },
-    {
-     "dt": "2026-11-10T12:00:28+00:00",
-     "title": "China hands over remains of US airmen killed during World War II supply missions",
-     "link": "https://www.scmp.com/news/china/diplomacy/article/3373945/china-hands-over-remains-us-airmen-killed-during-world-war-ii-supply-missions",
-     "desc": "China has handed over the remains of American airmen who were killed during World War II while carrying supplies over the Himalayas. The Chinese and US militaries held a handover ceremony in Chengdu, the capital of Sichuan province, on Tuesday to transfer remains excavated from sites along “the Hump”, a treacherous airlift route between India and China. The Chinese defence ministry did not disclose how many sets of remains were handed over or whether the servicemen’s identities had been...",
-     "src": "SCMP China",
-     "lead": "The American aviators were killed crossing ‘the Hump’, a key Himalayan route that linked India and China China has handed over the remains of American airmen who were killed during World War II while carrying supplies over the Himalayas."
-    },
-    {
-     "dt": "2026-11-10T11:00:10+00:00",
-     "title": "China warns against fake spy claims after jealous public servant frames rival",
-     "link": "https://www.scmp.com/news/china/politics/article/3373953/china-warns-against-fake-spy-claims-after-jealous-public-servant-frames-rival",
-     "desc": "A Chinese state employee who falsely accused a colleague of spying for Beijing after losing out on a coveted overseas posting has been penalised by the Ministry of State Security. The country’s top intelligence agency made the rare decision to shed light on the case using its social media account on Tuesday in a bid to highlight the consequences of making false accusations. The perpetrator, identified only by his surname, Liu, earned a master’s degree from a prestigious university in 2018 and...",
-     "src": "SCMP China",
-     "lead": "Top intelligence agency says that even though the smear was motivated by personal grievance, it still hurt national security The perpetrator, identified only by his surname, Liu, earned a master’s degree from a prestigious university in 2018 and was seen as a rising star at the public institution where he worked, the post said."
     }
    ]
   },
@@ -266,12 +266,36 @@
    "flag": "🇩🇪",
    "items": [
     {
-     "dt": "2026-11-10T16:00:00+00:00",
-     "title": "German left-wing parties to form state government, keeping AfD out",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTmZZNGlIWE9ZSTJtaTVJaHJCenk3OTQ3U3lvYzNxWE92cGhHQmdqeGppQUFIc1lzaGJLQ0N2OUhDZFpLeFBzX3UyaExMcUY0VHlZdGxNeGFleXRzVWxRR1JvdDZpS1BSYlZPZWozWDhyc3pBZWt6UUJGYWtsOC14TGk1UVh6dmhPenpoanQ3VXB6SXI1THhwZ0RkR2hMMmlHYnFTdzhOSFphRWs?oc=5",
-     "desc": "German left-wing parties to form state government, keeping AfD out The Straits Times",
-     "src": "The Straits Times",
+     "dt": "2026-11-10T20:27:47+00:00",
+     "title": "Germany news: Presidential candidate Ilse Aigner meets with parties in Bundestag, but not AfD or Linke",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcnB5QUloN1ZROVhQLUx6aC1EUEdLc0JNSVJSSU12cklXRXppc2tNLWJhLV9RLUkxZ2ZlWFhOdVJKOTFNbHI3VmVFU0NCSTVrRXc4ODBwNTRpR09UbzhTVG1rSjd3SER1NzNUWWZiUzMzUTg0VEpwQXpkVHR0UVdMT2NKOVJhWUtqbC1HSk9YZ3c?oc=5",
+     "desc": "Germany news: Presidential candidate Ilse Aigner meets with parties in Bundestag, but not AfD or Linke DW.com",
+     "src": "DW.com",
      "lead": ""
+    },
+    {
+     "dt": "2026-11-10T17:55:35+00:00",
+     "title": "More than 80 years after WWII, victims of Nazi Germany's war in Poland are still looking for reparations",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOREJoYkRIRVh2Rkg5R25yaVJoQkt4ZlpQVC0yR2ZEaWw1bDlUQ3pZRmdQaDByUnZ2TEFXRWdpdVhJSlV1bXlBRlNzemNHZm9pclFybmRoLUdFR3lKNjZBT1ZkTzVacXN2NmVNTkp4c1hrdzF6bS05VDRsVWVWcDJNQXE2WktQRlc1ZklsS0tJM0hTNlBZ0gGUAUFVX3lxTE9FQV9GZDY5UGF1UFRzT19makdQcUJBbHZWekc1X3JiR2k0RGhQMGFweW9nbXlPMFdSVnFscnAxZWN1NWh0OGlvVThxVEQ1c0g0SzVHR0djZEpaWndieUY3RFdnTmkydk13dGlldm1rekpMNFVLWlEtRzc1bno2MkUxVnliWHJPYk9lc3U5ZndXckpOdWE?oc=5",
+     "desc": "More than 80 years after WWII, victims of Nazi Germany's war in Poland are still looking for reparations DW.com",
+     "src": "DW.com",
+     "lead": ""
+    },
+    {
+     "dt": "2026-11-10T17:15:59+00:00",
+     "title": "Dominic Fritz: “Another woman in German politics has woken up and decided to insult Romanians, this time from the far left”",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOamdwNW83aUJYbDFKbDcxaW5xcl91Z1VEdzJWbnFrYm1nWTZONzVtWlFfY1JzdDJORXptcHB2cFVGWkp3NWF5Q043X1JwQUdGcTZSb0h0MDBiYWJHLVNIUTRtVDhXNmxqRTZFNWZzdmVIVVRFa2dZRFd1TVRHb293ckIzQ0tGeGZtZkhXWkI4Vlc5YW9HUnA5TThYa2U1VWxSeHhGcTlfcDBTSmZE?oc=5",
+     "desc": "Dominic Fritz: “Another woman in German politics has woken up and decided to insult Romanians, this time from the far left” Informat.ro",
+     "src": "Informat.ro",
+     "lead": ""
+    },
+    {
+     "dt": "2026-11-10T15:49:00+00:00",
+     "title": "Controversial kinship: From colonial rule to the Holocaust?",
+     "link": "https://www.dw.com/en/controversial-kinship-from-colonial-rule-to-the-holocaust/a-79902228?maca=en-rss-en-ger-1023-rdf",
+     "desc": "Hitler once called Eastern Europe \"Germany's India.\" A new exhibition examines the links between colonialism and Nazism, and the bitter debate over where comparisons illuminate history and where they fall short.",
+     "src": "DW Germany",
+     "lead": "Hitler once called Eastern Europe \"Germany's India.\" A new exhibition examines the links between colonialism and Nazism, and the bitter debate over where comparisons illuminate history and where they fall short."
     },
     {
      "dt": "2026-11-10T11:12:00+00:00",
@@ -280,30 +304,6 @@
      "desc": "Felix Nmecha's \"Crowns down\" celebration has drawn criticism from a Borussia Dortmund fan club, reopening debate over faith, inclusion and religious messaging in football.",
      "src": "DW Germany",
      "lead": "Felix Nmecha's \"Crowns down\" celebration has drawn criticism from a Borussia Dortmund fan club, reopening debate over faith, inclusion and religious messaging in football. Felix Nmecha's renewed use of the \"Crowns down celebration\" — where a crown is pretended to be removed from someone's head and placed at Jesus' feet — has sparked a reaction from Borussia…"
-    },
-    {
-     "dt": "2026-11-10T10:29:23+00:00",
-     "title": "Germany to pay €6.6 billion for 50% stake in Leopard tank maker KNDS",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc0UxdU42d3NLOVBPQmM2SWJDa3FpRUltRnZsRjMxTWgwWlRUNFkwOWNsTTZib2hXRFEta3B6YzE5UnNrMVFnTS1vUWpWNkNFWS03al9kS3NPM2hhbVlKY09oU3ItLUJHemdtSkZkR3U3VmNIZzVleEVJMnF6WGJzVWk3UXZSSlRVVHVBRTk4NFl0T0xkRlNwWGNib01pckRLVWxZRTVDb0hvMnVONjNiT0F6bHdEamRrSlE?oc=5",
-     "desc": "Germany to pay €6.6 billion for 50% stake in Leopard tank maker KNDS Reuters",
-     "src": "Reuters",
-     "lead": ""
-    },
-    {
-     "dt": "2026-11-10T07:34:52+00:00",
-     "title": "Ilse Aigner could become Germany's first female president",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSnQxMlBmQS1tS2JQcG1icTNwWnR1OXlWa3RQcHdidUdaYUEyazN2OEhmbWtQdkotUlZ5NGo3N0ktU25IazdjQ1lJTUFWemlWLVRyWnJQbkRZdUpLZmkyWWhqSE02MFBiX3hObFJ4VG1zSWR3cmpuVjNTTFRVQlh6MlhHWDE1U0xQNllGMTkwTEdINFdNQW9oSQ?oc=5",
-     "desc": "Ilse Aigner could become Germany's first female president Deutsche Welle",
-     "src": "Deutsche Welle",
-     "lead": ""
-    },
-    {
-     "dt": "2026-11-09T13:59:00+00:00",
-     "title": "37 years after fall of Berlin Wall: How divided are Germans?",
-     "link": "https://www.dw.com/en/37-years-after-fall-of-berlin-wall-how-divided-are-germans/a-79877461?maca=en-rss-en-ger-1023-rdf",
-     "desc": "Three artists share their thoughts on the reunification of East and West Germany. How do they perceive a shared \"we\" and what gives them cause for optimism?",
-     "src": "DW Germany",
-     "lead": "Three artists share their thoughts on the reunification of East and West Germany. How do they perceive a shared \"we\" and what gives them cause for optimism? When the Berlin Wall fell on November 9, 1989, ending East Germany's isolation from the West, the event was celebrated on both sides of the border."
     }
    ]
   },
@@ -360,44 +360,44 @@
    "flag": "🇮🇳",
    "items": [
     {
-     "dt": "2026-11-10T21:38:30+05:30",
-     "title": "‘Integrity is paramount, don’t forget your roots’: Revanth tells new DSPs",
-     "link": "https://www.thehindu.com/news/national/telangana/integrity-is-paramount-dont-forget-your-roots-revanth-tells-new-dsps/article71686953.ece",
+     "dt": "2026-11-11T04:04:48+05:30",
+     "title": "US Charges 3 'Iranian Operatives' Over Alleged Terrorist Plot At UK Airbase",
+     "link": "https://www.ndtv.com/world-news/us-charges-3-iranian-operatives-over-alleged-terrorist-plot-at-uk-airbase-12310295#publisher=newsstand",
+     "desc": "Mohammad Baqer Saad Dawood al-Saadi, Mohsen Mohajeri and Mohammad Ali al-Hassani allegedly helped plan and direct the September incident at the base, which has been used by the US military in its operations against Iran.",
+     "src": "NDTV",
+     "lead": "Mohammad Baqer Saad Dawood al-Saadi, Mohsen Mohajeri and Mohammad Ali al-Hassani allegedly helped plan and direct the September incident at the base, which has been used by the US military in its operations against Iran."
+    },
+    {
+     "dt": "2026-11-11T03:54:48+05:30",
+     "title": "Bombay High Court declines request for hearing each day in quota petitions for Maratha reservation",
+     "link": "https://www.thehindu.com/news/national/maharashtra/bombay-high-court-declines-request-for-hearing-each-day-in-quota-petitions-for-maratha-reservation/article71687008.ece",
      "desc": "",
      "src": "The Hindu",
      "lead": "Account subscription benefits alongside Premium Stories, Editorials, Opinions and more. Unlock these with Subscription The View From India Looking at World Affairs from the Indian perspective. First Day First Show News and reviews from the world of cinema and streaming. Today's Cache Your download of the top 5 technology stories of the day."
     },
     {
-     "dt": "2026-11-10T21:37:56+05:30",
-     "title": "Police sub-inspector shoots at history-sheeter for attacking during escape bid in Vellore",
-     "link": "https://www.thehindu.com/news/national/tamil-nadu/sub-inspector-shoots-at-history-sheeter-for-attacking-him-during-escape-bid-in-vellore/article71684958.ece",
-     "desc": "Sub-inspector Raja and suspect Poovarasan were admitted to Government Taluk Hospital in Gudiyatham town",
+     "dt": "2026-11-11T03:53:13+05:30",
+     "title": "Meghan Markle's Father Jailed Again After Cutting Off Ankle Monitor",
+     "link": "https://www.ndtv.com/world-news/meghan-markles-father-thomas-markle-cut-off-his-ankle-monitor-12310164#publisher=newsstand",
+     "desc": "Thomas Markle was in custody awaiting a hearing in federal court in Tampa, Florida, First Assistant US Attorney Bill Essayli said.",
+     "src": "NDTV",
+     "lead": "Thomas Markle was in custody awaiting a hearing in federal court in Tampa, Florida, First Assistant US Attorney Bill Essayli said."
+    },
+    {
+     "dt": "2026-11-11T03:23:15+05:30",
+     "title": "\"Everything We Love Is At Stake\": Greta Thunberg Arrives For COP31 Summit",
+     "link": "https://www.ndtv.com/world-news/cop31-climate-activist-greta-thunberg-arrives-for-climate-talks-in-turkey-12310255#publisher=newsstand",
+     "desc": "The COP31 conference is being held in the Turkish resort city of Antalya following a year of deadly climate-related disasters, including heat waves and floods, and another energy shock caused by the Iran war.",
+     "src": "NDTV",
+     "lead": "The COP31 conference is being held in the Turkish resort city of Antalya following a year of deadly climate-related disasters, including heat waves and floods, and another energy shock caused by the Iran war."
+    },
+    {
+     "dt": "2026-11-11T03:12:24+05:30",
+     "title": "Bihar Cabinet hikes 3% DA for employees, pensioners",
+     "link": "https://www.thehindu.com/news/national/bihar/bihar-cabinet-hikes-3-da-for-employees-pensioners/article71687144.ece",
+     "desc": "The Cabinet approved the “Bihar Ki Beti Startup Challenge Scheme”, under which, 2,100 female students may be provided benefits beginning from the current financial year",
      "src": "The Hindu",
      "lead": "Account subscription benefits alongside Premium Stories, Editorials, Opinions and more. Unlock these with Subscription The View From India Looking at World Affairs from the Indian perspective. First Day First Show News and reviews from the world of cinema and streaming. Today's Cache Your download of the top 5 technology stories of the day."
-    },
-    {
-     "dt": "2026-11-10T21:37:26+05:30",
-     "title": "P. Chandrasekhar appointed to AP Higher Education Fee Regulatory Committee",
-     "link": "https://www.thehindu.com/news/national/andhra-pradesh/p-chandrasekhar-appointed-to-ap-higher-education-fee-regulatory-committee/article71686901.ece",
-     "desc": "",
-     "src": "The Hindu",
-     "lead": "Account subscription benefits alongside Premium Stories, Editorials, Opinions and more. Unlock these with Subscription The View From India Looking at World Affairs from the Indian perspective. First Day First Show News and reviews from the world of cinema and streaming. Today's Cache Your download of the top 5 technology stories of the day."
-    },
-    {
-     "dt": "2026-11-10T21:22:38+05:30",
-     "title": "Sonia Gandhi Gets Her Adviser Ahmed Patel's Death Year Wrong In Memoir",
-     "link": "https://www.ndtv.com/india-news/belonging-a-jouney-of-love-sonia-gandhi-gets-her-advisor-ahmed-patels-death-year-wrong-in-memoir-12308241#publisher=newsstand",
-     "desc": "Ahmed Patel, \"AP\" as he was called in the party, was the Rajya Sabha member from Gujarat and had also advised former Prime Minister Rajiv Gandhi.",
-     "src": "NDTV",
-     "lead": "Ahmed Patel, \"AP\" as he was called in the party, was the Rajya Sabha member from Gujarat and had also advised former Prime Minister Rajiv Gandhi."
-    },
-    {
-     "dt": "2026-11-10T21:19:43+05:30",
-     "title": "'UPA 2.0 Brought Personal Challenges': Sonia Gandhi On Beating Cancer Twice",
-     "link": "https://www.ndtv.com/india-news/sonia-gandhi-book-belonging-a-journey-of-love-upa-2-0-brought-personal-challenges-sonia-gandhi-on-beating-cancer-twice-12309376#publisher=newsstand",
-     "desc": "Sonia Gandhi said that she was advised by doctors to have an operation for suspected breast cancer in 2010 and that her \"mind began to race to a possible scary outcome\" after she was told there was no time to lose.",
-     "src": "NDTV",
-     "lead": "Sonia Gandhi said that she was advised by doctors to have an operation for suspected breast cancer in 2010 and that her \"mind began to race to a possible scary outcome\" after she was told there was no time to lose."
     }
    ]
   },
@@ -407,44 +407,44 @@
    "flag": "🇬🇧",
    "items": [
     {
-     "dt": "2026-11-10T15:52:52+00:00",
-     "title": "Planned Tory welfare cuts ‘a charter for human misery,’ says Labour – UK politics live",
-     "link": "https://www.theguardian.com/politics/live/2026/nov/10/badenoch-conservative-welfare-cuts-disability-benefits-burnham-politics-latest-news-updates",
-     "desc": "Conservative leader launches Welfare That Works policy document outlining benefit reductions of £36bn Badenoch and Whately are now taking questions. Q: [From Rob Powell from Sky News] We are running a report on the Netherlands, where youth unemployment is much lower than in the UK, but the amount they spend on getting people into work is much higher. Do you want to spend more on job training and support? Continue reading...",
+     "dt": "2026-11-10T22:37:13+00:00",
+     "title": "Thomas Markle, Meghan’s father, jailed after cutting off ankle monitor, DoJ says",
+     "link": "https://www.theguardian.com/us-news/2026/nov/10/thomas-markle-ankle-monitor",
+     "desc": "Estranged father of Duchess of Sussex was arrested for keeping child sexual abuse material, authorities say The estranged father of Meghan Markle, the Duchess of Sussex, has been jailed after US authorities said he cut an electronic monitoring device off his ankle, days after his arrest for keeping child sexual abuse material in storage units in California. Thomas Markle, 82, was in custody awaiting a hearing in federal court in Tampa, Florida, first assistant US attorney Bill Essayli said. He was arrested shortly after he cut off the ankle bracelet at 1.45am on Tuesday, Essayli said. Continue reading...",
      "src": "Guardian UK",
-     "lead": "Good morning. It is quite easy for politicians to declare that they will cut the welfare bill by X amount – but much harder when they have to explain exactly who will lose out. This is summed up by a good anecdote about a former chancellor (Ken Clarke, according to some versions, but it could have been any of them), who gave this reply when asked for cuts th…"
+     "lead": "Estranged father of Duchess of Sussex was arrested for keeping child sexual abuse material, authorities say The estranged father of Meghan Markle, the Duchess of Sussex, has been jailed after US authorities said he cut an electronic monitoring device off his ankle, days after his arrest for keeping child sexual abuse material in storage units in California ."
     },
     {
-     "dt": "2026-11-10T15:46:04+00:00",
-     "title": "Singapore seizes US-operated cruise ship that offered ‘permanent’ life at sea",
-     "link": "https://www.theguardian.com/world/2026/nov/10/singapore-seizes-us-operated-cruise-ship-mv-odyssey",
-     "desc": "MV Odyssey impounded by authorities almost a fortnight after passengers left stranded in Cambodian port Singapore has seized a US-operated cruise ship that offered retirees a “permanent” life at sea but instead offloaded them in Cambodia after it ran out of money due to soaring fuel prices. After more than 200 passengers were left stranded in the Cambodian port city of Sihanoukville last month , the MV Odyssey sailed on to ⁠Singapore last week and has been impounded by authorities. Continue reading...",
-     "src": "Guardian UK",
-     "lead": "MV Odyssey impounded by authorities almost a fortnight after passengers left stranded in Cambodian port Singapore has seized a US-operated cruise ship that offered retirees a “permanent” life at sea but instead offloaded them in Cambodia after it ran out of money due to soaring fuel prices."
-    },
-    {
-     "dt": "2026-11-10T15:43:41+00:00",
-     "title": "Pete Hegseth dismisses Republican’s impeachment effort against him as ‘a political spectacle’ – US politics live",
+     "dt": "2026-11-10T22:28:59+00:00",
+     "title": "Trump ally Jim Jordan to lead House Republicans next year, with John Thune to return as Senate minority leader - live",
      "link": "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates",
-     "desc": "Trump’s defense secretary calls impeachment effort from congressman Thomas Massie ‘a personal manifesto driven by ego’ as he faces scrutiny for prolonged Iran war Sign up for the US Breaking News email During his press conference, Hegseth was resolute that the articles of impeachment are baseless, and that all attacks were carried out legally. “As for the articles themselves, Iran, the cartels, Maduro, Yemen, everyone was a lawful operation ordered by the commander-in-chief, then ordered by myself, notified to Congress and executed by American warriors who did their jobs,” he said. “We destroyed terror regimes’ capabilities. We sank the boats carrying poison into our communities. We put a narco dictator in handcuffs. These are not high crimes. This is the job, and it’s the job well done.” Continue reading...",
+     "desc": "Jordan, the hardline conservative from Ohio, beat fellow congressman Steve Scalise by a vote of 106-73; Thune won re-election without a challenger Republicans elect Jim Jordan as House minority leader after party’s midterm defeats Sign up for the US Breaking News email During his press conference, Hegseth was resolute that the articles of impeachment are baseless, and that all attacks were carried out legally. “As for the articles themselves, Iran, the cartels, Maduro, Yemen, everyone was a lawful operation ordered by the commander-in-chief, then ordered by myself, notified to Congress and executed by American warriors who did their jobs,” he said. “We destroyed terror regimes’ capabilities. We sank the boats carrying poison into our communities. We put a narco dictator in handcuffs. These are not high crimes. This is the job, and it’s the job well done.” Continue reading...",
      "src": "Guardian UK",
-     "lead": "Pete Hegseth has started his Pentagon press conference. He took the podium and immediately blasted Thomas Massie’s articles of impeachment against him, that the outgoing Republican introduced on Monday. “What one disgruntled and defeated congressman is attempting is not oversight, and it’s not accountability,” Hegseth said."
+     "lead": "Congressman Jim Jordan , a Republican hardliner from Ohio, has won the election to become the next House minority leader in Congress. Jordan beat Representative Steve Scalise , the current majority leader, by 106-73 in a closed-door vote to lead Republicans from January."
     },
     {
-     "dt": "2026-11-10T15:14:37+00:00",
-     "title": "US military aircraft leave second UK base",
-     "link": "https://www.bbc.co.uk/news/articles/c32l4lw12z7po?at_medium=RSS&at_campaign=rss",
-     "desc": "The departures come weeks after the US withdrew bombers from RAF Fairford airbase over a suspected Iran-linked security incident.",
-     "src": "BBC UK",
-     "lead": "At least 10 US Air Force refuelling aircraft left a second airbase in Britain on Monday. Flight tracking data reviewed by BBC Verify shows the aircraft left RAF Mildenhall in Suffolk and landed at other American bases in Europe and also at Prestwick Airport in Ayrshire, Scotland."
+     "dt": "2026-11-10T22:05:43+00:00",
+     "title": "Fujino’s double sparks WCL comeback win for Manchester City against Inter",
+     "link": "https://www.theguardian.com/football/2026/nov/10/inter-manchester-city-womens-champions-league-match-report",
+     "desc": "Manchester City’s European campaign finally came roaring into life as they put four goals past Inter to record their first Women’s Champions League victory of the season and greatly improve their prospects of reaching the knockout stages. The English side had to come from behind after a slow start but two goals from Aoba Fujino put them ahead before half-time, and second-half efforts from Kerstin Casparij and Grace Clinton gave them a 4-1 victory in Monza that doubled their points tally, after their draws against Bayern Munich, Real Madrid and Paris Saint-Germain. Continue reading...",
+     "src": "Guardian UK",
+     "lead": "Manchester City’s European campaign finally came roaring into life as they put four goals past Inter to record their first Women’s Champions League victory of the season and greatly improve their prospects of reaching the knockout stages."
     },
     {
-     "dt": "2026-11-10T15:10:20+00:00",
-     "title": "Sales of tinned food and bottled water jump after 'Be Ready' campaign launch",
-     "link": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
-     "desc": "Sales of essential goods such as hand sanitiser soar after the government called on households to be prepared for emergencies.",
+     "dt": "2026-11-10T22:04:54+00:00",
+     "title": "Census should include black English and Asian English options, says MP",
+     "link": "https://www.bbc.co.uk/news/articles/c3lylyy24xl5o?at_medium=RSS&at_campaign=rss",
+     "desc": "Josh Babarinde's proposal is also supported by other MPs, including David Lammy and Sir James Cleverly.",
      "src": "BBC UK",
-     "lead": "Sales of essential goods such as bottled water and canned food soared in the 10 days following the launch of the government's \"Be Ready\" emergency preparedness campaign on 22 October, research indicates."
+     "lead": "The next census should include more ethnicity options to allow people to define themselves as black English or Asian English, according to a group of MPs. Liberal Democrat MP Josh Babarinde told the BBC that \"most people\" in the country believe \"you don't have to be white to be English\", as he called for the categories to be updated in a similar way to chang…"
+    },
+    {
+     "dt": "2026-11-10T20:20:11+00:00",
+     "title": "David Walliams accused of sexual misconduct after losing injunction bid",
+     "link": "https://www.bbc.co.uk/news/articles/ckn8w8p9370zo?at_medium=RSS&at_campaign=rss",
+     "desc": "ITN and the Guardian allege the comedian preyed on teenage girls and young women. He has denied all allegations.",
+     "src": "BBC UK",
+     "lead": "ITV News and the Guardian have published reports alleging that David Walliams has been accused of sexual misconduct by several women, including one who was aged 15. The allegations were made as a part of a joint three-year investigation , external by the two news organisations, which was published after the entertainer lost a legal bid to stop the claims aga…"
     }
    ]
   },
@@ -454,34 +454,34 @@
    "flag": "🇫🇷",
    "items": [
     {
-     "dt": "2026-11-10T16:10:11+00:00",
-     "title": "‘It’s a farce’: Hegseth slams impeachment effort",
-     "link": "https://www.france24.com/en/video/20261110-it-s-a-farce-hegseth-slams-impeachment-effort",
-     "desc": "US Defense Secretary Pete Hegseth dismissed a move to impeach him by a Republican lawmaker as a “farce” and a political “stunt” on Tuesday. It came a day after outgoing US Representative Thomas Massie introduced eight articles of impeachment against Hegseth over his handling of the war with Iran and other alleged abuses of power.",
-     "src": "France24 EN",
-     "lead": "US Defense Secretary Pete Hegseth dismissed a move to impeach him by a Republican lawmaker as a “farce” and a political “stunt” on Tuesday. It came a day after outgoing US Representative Thomas Massie introduced eight ar"
+     "dt": "2026-11-10T22:42:42+00:00",
+     "title": "Trump ally Jim Jordan elected House Republican leader after midterm defeat",
+     "link": "https://www.france24.com/en/americas/20261110-trump-jim-jordan-elected-house-republican-leader-midterm-defeat",
+     "desc": "Jim Jordan, a hardline ally of President Donald Trump, was elected US House Republican leader on Tuesday, defeating Steve Scalise 106-73 in a secret ballot, US media reported. He replaces Mike Johnson after Republicans lost both chambers of Congress in last week’s midterm elections and will lead the party’s opposition.",
+     "src": "© Jacquelyn Martin, AP",
+     "lead": "Jim Jordan, a hardline ally of President Donald Trump, was elected US House Republican leader on Tuesday, defeating Steve Scalise 106-73 in a secret ballot, US media reported. He replaces Mike Johnson after Republicans l"
     },
     {
-     "dt": "2026-11-10T16:01:40+00:00",
-     "title": "The robot boom: Are businesses ready for an AI-powered workforce?",
-     "link": "https://www.france24.com/en/tv-shows/business/20261110-the-robot-boom-are-businesses-ready-for-an-ai-powered-workforce",
-     "desc": "As artificial intelligence makes machines more capable and autonomous, businesses are racing to embrace robotics. But while many executives expect to deploy robot fleets in the coming years, far fewer have a clear strategy for doing so. FRANCE 24's Charles Pellegrin speaks to John Healy, Intel's Vice President of Robotics and Industrial Solutions, about the opportunities, risks and workforce challenges behind the growing robot revolution.",
-     "src": "France24 EN",
-     "lead": "As artificial intelligence makes machines more capable and autonomous, businesses are racing to embrace robotics. But while many executives expect to deploy robot fleets in the coming years, far fewer have a clear strate"
+     "dt": "2026-11-10T22:26:36+00:00",
+     "title": "US charges three 'Iranian operatives' over RAF Fairford terror plot",
+     "link": "https://www.france24.com/en/americas/20261110-us-iranian-operatives-raf-fairford-terror-plot",
+     "desc": "The US Justice Department on Tuesday charged three men it described as Iranian operatives over an alleged September terrorist plot at Britain's RAF Fairford airbase in England. Prosecutors said one suspect directed individuals to drive vans, some carrying fuel barrels, to the base, which housed US military aircraft and personnel.",
+     "src": "© Ben Stanstall, AFP",
+     "lead": "The US Justice Department on Tuesday charged three men it described as Iranian operatives over an alleged September terrorist plot at Britain's RAF Fairford airbase in England. Prosecutors said one suspect directed indiv"
     },
     {
-     "dt": "2026-11-10T14:40:16+00:00",
-     "title": "Israel live: Eisenkot party submits bill to new parliament to investigate October 7 failures",
-     "link": "https://www.france24.com/en/middle-east/20261110-live-new-israeli-parliament-sworn-in-eisenkot-aims-to-form-government-netanyahu-knesset",
-     "desc": "Israel's new parliament was sworn in Tuesday with opposition leader Gadi Eisenkot aiming to build a coalition after receiving a mandate to form a government. Eisenkot's party moved to immediately set up a commission to investigate failures that allowed Hamas's October 7, 2023 attack, a move long resisted by caretaker Prime Minister Benjamin Netanyahu. Follow our live coverage for the latest updates.",
-     "src": "© Ronen Zvulun, Reuters",
-     "lead": "Israel's new parliament was sworn in Tuesday with opposition leader Gadi Eisenkot aiming to build a coalition after receiving a mandate to form a government. Eisenkot's party moved to immediately set up a commission to i"
+     "dt": "2026-11-10T22:25:48+00:00",
+     "title": "West Bank: Population and healthcare actors, such as MSF, 'still facing movement restrictions'",
+     "link": "https://www.france24.com/en/video/20261110-west-bank-population-and-healthcare-actors-such-as-msf-still-facing-movement-restrictions",
+     "desc": "Eve Irvine is pleased to welcome Frederica Venturi of Doctors Without Borders (MSF). The withdrawal of Israeli forces from Hebron has not brought an end to the humanitarian crisis. According to Venturi, some 3,300 Palestinians were forcibly displaced, 15 houses were reportedly demolished, and continuing restrictions on movement have obstructed access to essential healthcare. \"Those families whose houses were demolished have nowhere to go back to.\" Venturi describes how the \"movement restrictions during the lockdown prevented medical teams from reaching communities.\" Hospitals are also reporting shortages of essential medicines.",
+     "src": "France24 EN",
+     "lead": "Eve Irvine is pleased to welcome Frederica Venturi of Doctors Without Borders (MSF). The withdrawal of Israeli forces from Hebron has not brought an end to the humanitarian crisis. According to Venturi, some 3,300 Palest"
     },
     {
      "dt": "2026-11-10T07:43:55+00:00",
-     "title": "France threatens actions against Iran over supermarket cyberattacks",
+     "title": "France vows sanctions for supermarket hacks as Iran rejects 'baseless accusations'",
      "link": "https://www.france24.com/en/france/20261110-france-vows-tough-response-to-freezer-cyberattack-blamed-on-iran",
-     "desc": "France will seek European-level sanctions against Iran in response to cyberattacks on hundreds of supermarket fridges, Foreign Minister Jean-Noël Barrot said Tuesday, after accusing Tehran's Revolutionary Guards of orchestrating the October sabotage.",
+     "desc": "France will seek European-level sanctions against Iran in response to cyberattacks on hundreds of supermarket fridges, Foreign Minister Jean-Noël Barrot said Tuesday, after accusing Tehran's Revolutionary Guards of orchestrating the October sabotage. Iran's foreign ministry said the accusations were \"baseless and one-sided\".",
      "src": "© Fred Tanneau, AFP",
      "lead": "France will seek European-level sanctions against Iran in response to cyberattacks on hundreds of supermarket fridges, Foreign Minister Jean-Noël Barrot said Tuesday, after accusing Tehran's Revolutionary Guards of orche"
     },
@@ -501,44 +501,44 @@
    "flag": "🇮🇹",
    "items": [
     {
+     "dt": "2026-11-10T19:32:39+01:00",
+     "title": "New appeals trial for Schmidheiny in Eternit asbestos deaths case",
+     "link": "https://www.ansa.it/english/news/general_news/2026/11/10/new-appeals-trial-for-schmidheiny-in-eternit-asbestos-deaths-case_1c6f447d-782d-4ac2-858a-32d97266b716.html",
+     "desc": "Over 60 deaths, statute of limitations has expired in relation to another 25",
+     "src": "ANSA English",
+     "lead": "A new appeal trial has been ordered for Swiss businessman Stephan Schmidheiny, who is accused of aggravated manslaughter in the \"Eternit bis\" asbestos deaths case. Judges from the fourth section of the supreme Court of Cassation have mandated a fresh appellate proceeding concerning approximately 60 victims, while declaring that the statute of limitations has…"
+    },
+    {
+     "dt": "2026-11-10T19:21:57+01:00",
+     "title": "Foggia sees 4th security van heist this year",
+     "link": "https://www.ansa.it/english/news/general_news/2026/11/10/foggia-sees-4th-security-van-heist-this-year_c81359a9-8cd3-49f2-aab6-b8bd7be32309.html",
+     "desc": "Bandits torch cars, hijack bus, blow doors off, use kalashnikovs",
+     "src": "ANSA English",
+     "lead": "The province of Foggia in Puglia on Tuesday saw its fourth security van robbery of the year. Robbers are becoming increasingly violent with the latest heist featuring war-grade weapons, explosives, cars torched and a bus hijacked with two passengers on board."
+    },
+    {
+     "dt": "2026-11-10T17:47:58+01:00",
+     "title": "Mattarella says magistrates mustn't be subject to any hierarchical constraints",
+     "link": "https://www.ansa.it/english/news/politics/2026/11/10/mattarella-says-magistrates-mustnt-be-subject-to-any-hierarchical-constraints_0b16be5a-9e5e-4024-a606-05354d04598d.html",
+     "desc": "Constitution provides guarantees of autonomy and independence",
+     "src": "ANSA English",
+     "lead": "Magistrates must not be subject to any hierarchical constraints, President Sergio Mattarella said while receiving trainee magistrates at the Quirinal Palace on Tuesday. \"The equality of all citizens before the law presupposes the independence of the judiciary, just as it requires the impartiality of its decisions; for only in this way can the equal dignity o…"
+    },
+    {
+     "dt": "2026-11-10T17:16:47+01:00",
+     "title": "Italy bridles at Russia proposal to ban pizza from school canteens",
+     "link": "https://www.ansa.it/english/news/general_news/2026/11/10/italy-bridles-at-russia-proposal-to-ban-pizza-from-school-canteens_b3eb8d1b-d90d-48e7-9a48-967d1f640a54.html",
+     "desc": "Naples pizzaiolo to make 'Pizza For Russia', SIMA says safe and healthy",
+     "src": "ANSA English",
+     "lead": "Italy on Tuesday came out against a Russian official's proposal to ban pizza from Russian school canteens because it is a Western product that harms children's health and undermines Moscow's traditional gastronomic identity. Pizza is very popular among Russian youth."
+    },
+    {
      "dt": "2026-11-10T16:53:43+01:00",
      "title": "Italy against Russia proposal to ban pizza from school canteens",
      "link": "https://www.ansa.it/english/news/general_news/2026/11/10/italy-against-russia-proposal-to-ban-pizza-from-school-canteens_a7311938-6bcc-49a5-90b0-61ddf5ac3996.html",
      "desc": "Naples pizzaiolo to make 'Pizza For Russia', SIMA says safe and healthy",
      "src": "ANSA English",
      "lead": "Italy on Tuesday came out against a Russian official's proposal to ban pizza from Russian school canteens because it is a Western product that harms children's health and undermines Moscow's traditional gastronomic identity. Pizza is very popular among Russian youth."
-    },
-    {
-     "dt": "2026-11-10T15:47:47+01:00",
-     "title": "15-year-old Italian arrested in Malta in May for causing a false alarm released",
-     "link": "https://www.ansa.it/english/news/general_news/2026/11/10/15-year-old-italian-arrested-in-malta-in-may-for-causing-a-false-alarm_21b1e650-e832-43ab-81e8-08c7fb145922.html",
-     "desc": "'Maltese judicial authorities have ordered his release on bail'",
-     "src": "ANSA English",
-     "lead": "A 15-year-old Italian boy arrested in Malta on May 25 for causing a false alarm in his school has been released, the Italian foreign ministry said Tuesday. Maltese judicial authorities have ordered the release on bail of Flavio Santoiemma, said a statement from the Farnesina."
-    },
-    {
-     "dt": "2026-11-10T14:53:45+01:00",
-     "title": "Valditara calls for withdrawal of text book accusing govt of 'destroying liberty'",
-     "link": "https://www.ansa.it/english/news/politics/2026/11/10/valditara-calls-for-withdrawal-of-text-book-accusing-govt-of-destroying-liberty_73af7ff2-49a1-4018-9eb4-3f5c1b8dda9c.html",
-     "desc": "Laterza says won't pull book and minister should not request it",
-     "src": "ANSA English",
-     "lead": "Education Minister Giuseppe Valditara on Tuesday called on the Laterza publishing house to withdraw a high-school history text book that accuses the government of destroying liberty and suggests Premier Giorgia Meloni's right-wing Brothers of Freedom (FdI) party is continuing the legacy of Fascism."
-    },
-    {
-     "dt": "2026-11-10T14:52:43+01:00",
-     "title": "Tajani dismisses Russian embassy attack on him as 'propaganda, disinformation'",
-     "link": "https://www.ansa.it/english/news/politics/2026/11/10/tajani-dismisses-russian-embassy-attack-on-him-as-propaganda-disinformation_cafd6134-8307-475a-a1b7-4d037e7c99bc.html",
-     "desc": "Foreign minister blamed pro-Russian groups for cyberattacks",
-     "src": "ANSA English",
-     "lead": "Deputy Premier and Foreign Minister Antonio Tajani dismissed an attack on him by the Russian embassy to Rome as \"propaganda and disinformation\" as he spoke to reporters on the sidelines of the G7 meeting in Paris on Tuesday."
-    },
-    {
-     "dt": "2026-11-10T14:52:00+01:00",
-     "title": "Govt to boost monitoring of vulnerable security systems amid hybrid war",
-     "link": "https://www.ansa.it/english/news/politics/2026/11/10/govt-to-boost-monitoring-of-vulnerable-security-systems-amid-hybrid-war_f7846e41-1301-4d46-9890-4eb15e425faa.html",
-     "desc": "Piantedosi chairs meeting of National Committee for Public Order and Security",
-     "src": "ANSA English",
-     "lead": "Italy's National Committee for Public Order and Security on Tuesday decided that monitoring of the nation's most vulnerable cybersecurity systems must be strengthened following the recent cyberattacks staged as part of what several members of Premier Giorgia Meloni's government have described as a hybrid war."
     }
    ]
   },
@@ -548,44 +548,44 @@
    "flag": "🇨🇦",
    "items": [
     {
-     "dt": "2026-11-10T11:10:00-05:00",
-     "title": "Carney holds news conference in Montreal",
-     "link": "https://www.cbc.ca/player/play/9.7416316?cmp=rss",
-     "desc": "Prime Minister Mark Carney takes questions from journalists in Montreal and makes an announcement about funding in the federal budget for Canadian culture.",
+     "dt": "2026-11-10T17:46:23-05:00",
+     "title": "Alberta's United Conservative Party faces backlash for pledge that limits riding presidents' independence talk",
+     "link": "https://www.cbc.ca/news/canada/calgary/alberta-s-ucp-faces-backlash-for-pledge-that-limits-riding-presidents-independence-talk-9.7417108?cmp=rss",
+     "desc": "Some senior party organizers refuse to sign a new NDA stating they'll \"abide by\" the referendum result.",
      "src": "CBC Top",
-     "lead": "Prime Minister Mark Carney takes questions from journalists in Montreal and makes an announcement about funding in the federal budget for Canadian culture. Audience Relations, CBC P.O."
+     "lead": "The UCP is facing pushback from some of its top organizers for demanding all riding presidents sign a non-disclosure agreement that declares they “recognize, respect and will abide by” results of the separation referendum."
     },
     {
-     "dt": "2026-11-10T09:51:36-05:00",
-     "title": "Nvidia and CEO Jensen Huang face lawsuit over handling of ties to alleged Chinese spy",
-     "link": "https://www.cbc.ca/news/business/nvidia-jensen-huang-lawsuit-spying-9.7416186?cmp=rss",
-     "desc": "The lawsuit filed in San Jose, Calif., on Monday accuses the CEO and his company of misleading shareholders by concealing the relationship with a woman accused of feeding information to Bejing, and not disclosing that the matter raised national security concerns ‌that threatened Nvidia's reputation and business prospects.",
+     "dt": "2026-11-10T17:04:18-05:00",
+     "title": "N.S. group apologizes for including woman convicted in a brutal killing on a panel",
+     "link": "https://www.cbc.ca/news/canada/nova-scotia/marissa-shephard-elizabeth-fry-society-9.7417151?cmp=rss",
+     "desc": "The Elizabeth Fry Society of Mainland Nova Scotia is apologizing after it hosted a panel discussion on violence that featured Marissa Shephard. Shephard was sentenced to 12 years in jail after she pleaded guilty to manslaughter and arson in the death of Baylee Wylie.",
      "src": "CBC Top",
-     "lead": "Nvidia and chief executive Jensen Huang were sued on Monday in a proposed class ‌action accusing them of defrauding shareholders by concealing Huang's ties with a suspected Chinese spy."
+     "lead": "A Nova Scotia group that supports at-risk women and girls is apologizing after it hosted a panel discussion on violence that featured a woman convicted in the brutal killing of a teenager. Marissa Shephard was listed as a panel member for the event last week organized by the Elizabeth Fry Society of Mainland Nova Scotia."
     },
     {
-     "dt": "2026-11-10T09:42:08-05:00",
-     "title": "Defiant Hegseth calls Republican's impeachment resolution a 'farce'",
-     "link": "https://www.cbc.ca/news/world/hegseth-impeachment-resolution-reaction-9.7416083?cmp=rss",
-     "desc": "U.S. Secretary of War Pete Hegseth condemned a resolution in the House of Representatives calling for his impeachment, describing it as a \"farce\" from a \"disgruntled congressman\" who is leaving office.",
-     "src": "CBC Top",
-     "lead": "Hegseth calls effort to impeach him 'a political spectacle' U.S. Secretary of War Pete Hegseth condemned a resolution in the House of Representatives calling for his impeachment, describing it as a \"farce\" from a \"disgruntled congressman\" who is leaving office."
-    },
-    {
-     "dt": "2026-11-10T08:09:06-05:00",
-     "title": "Canada reimposes sanctions on Iran for violating nuclear non-proliferation commitments",
-     "link": "https://www.cbc.ca/news/politics/canada-iran-nuclear-commitments-9.7416081?cmp=rss",
-     "desc": "Canada is reimposing sanctions on 11 Iranian energy and financial organizations for the regime's failure to meet promises related to its nuclear program, its ballistic missile development and its ongoing financing of violence beyond its borders.",
+     "dt": "2026-11-10T16:16:39-05:00",
+     "title": "Why Canada is budgeting for extreme earthquake preparedness",
+     "link": "https://www.cbc.ca/news/politics/extreme-earthquake-insurance-canada-budget-9.7415611?cmp=rss",
+     "desc": "Prime Minister Mark Carney's second budget proposal aims to help Canadians prepare for the possibility of a major earthquake.",
      "src": "CBC Politics",
-     "lead": "Canada is reimposing sanctions on 11 Iranian energy and financial organizations for the regime's failure to meet promises related to its nuclear program, its ballistic missile development and its ongoing financing of violence beyond its borders."
+     "lead": "Prime Minister Mark Carney's second budget aims to help Canadians prepare for the possibility of a major earthquake that experts forecast has a 30 per cent chance of happening over the next 50 years on the Pacific Coast."
     },
     {
-     "dt": "2026-11-10T04:00:00-05:00",
-     "title": "Military budget squeeze limits paid Remembrance Day participation in Ontario",
-     "link": "https://www.cbc.ca/news/politics/military-canada-defence-budget-cuts-9.7415731?cmp=rss",
-     "desc": "Despite billions in new defence spending, military budget restraints are limiting paid Remembrance Day participation in southwestern Ontario. Leaked emails reveal commanders capped attendance at 50 reservists per unit, prompting complaints from troops. The military says soldiers can still attend ceremonies in uniform, but without being paid.",
+     "dt": "2026-11-10T15:03:43-05:00",
+     "title": "More than a dozen private companies lend workers to Major Projects Office: document",
+     "link": "https://www.cbc.ca/news/politics/private-company-workers-major-projects-office-9.7416899?cmp=rss",
+     "desc": "Private sector companies have lent 17 employees to work at the federal Major Projects Office, according to a document provided to the House environment committee.",
      "src": "CBC Politics",
-     "lead": "A military reserve unit in southwestern Ontario has imposed a cap on the number of soldiers it is willing to pay to attend Remembrance Day services this year, CBC News has learned. A series of leaked internal emails involving members of 31 Canadian Brigade show internal budget restraints imposed across the military have forced local commanders to limit paid…"
+     "lead": "Private sector companies have lent 17 employees to work at the federal Major Projects Office, according to a document provided to the House environment committee. The employees come from various positions at banks, railways and energy companies, according to the document — a copy of which CBC News has obtained. The Toronto Star first reported the news."
+    },
+    {
+     "dt": "2026-11-10T14:13:36-05:00",
+     "title": "Supreme Court reserves decision on whether federal firearms ban should stand",
+     "link": "https://www.cbc.ca/news/politics/supreme-court-reserves-decision-on-firearms-ban-9.7416672?cmp=rss",
+     "desc": "The question of whether the federal government had the authority to ban hundreds of makes and models of firearms is now in the hands of the country's top court after it heard arguments from gun advocates and government lawyers.",
+     "src": "CBC Politics",
+     "lead": "The question of whether the federal government had the authority to ban hundreds of makes and models of firearms is now in the hands of the country's top court. Over the past two days the justices of the Supreme Court of Canada have heard arguments from gun advocates and other interested parties challenging the Justin Trudeau-era policy outlawing hundreds of…"
     }
    ]
   },
@@ -595,44 +595,44 @@
    "flag": "🇧🇷",
    "items": [
     {
-     "dt": "2026-11-10T15:24:42+00:00",
-     "title": "Profeco Fields 350 Brigades for Buen Fin",
-     "link": "https://www.riotimesonline.com/profeco-350-brigades-el-buen-fin-opens-nov-13/",
-     "desc": "Profeco plans 350 brigades and 169 complaint modules as the five-day sale opens Friday, Nov. 13; Concanaco forecasts US$12.7 billion in sales. The post Profeco Fields 350 Brigades for Buen Fin appeared first on The Rio Times .",
+     "dt": "2026-11-10T22:42:51+00:00",
+     "title": "Argentina vs Uruguay Friendly, Time and TV",
+     "link": "https://www.riotimesonline.com/argentina-uruguay-friendly-november-2026/",
+     "desc": "Argentina host Uruguay at La Bombonera on Friday 13 November at 8 p.m. local, 6 p.m. Eastern, in the first squad since Messi retired. The post Argentina vs Uruguay Friendly, Time and TV appeared first on The Rio Times .",
      "src": "Rio Times",
-     "lead": "This story is part of our coverage of the El Buen Fin 2026 . Dates, times and how to follow it are in our guide. Latest: Mexico's Buen Fin Opens Friday, Growth Slows Mexico’s biggest shopping weekend opens in three days, and the consumer watchdog is already taking positions."
+     "lead": "Argentina vs Uruguay, an international friendly and the Río de la Plata classic, the long-running rivalry between two neighbours, kicks off on Friday 13 November 2026 at 8 p.m. in Buenos Aires, which is 6 p.m. on the US East Coast."
     },
     {
-     "dt": "2026-11-10T15:12:05+00:00",
-     "title": "Egypt’s Role and Weight in Africa",
-     "link": "https://www.riotimesonline.com/egypt-role-in-africa-explained-2026/",
-     "desc": "Egypt's weight in Africa rests on the Suez Canal, the Nile, the Sudan border and Gulf money. Here is what each is worth and what remains unsettled. The post Egypt’s Role and Weight in Africa appeared first on The Rio Times .",
+     "dt": "2026-11-10T22:38:15+00:00",
+     "title": "Ghana Phone Firm MTN Denies Staff Fraud Role",
+     "link": "https://www.riotimesonline.com/mtn-ghana-denies-staff-role-mobile-money-fraud/",
+     "desc": "MTN Ghana says it has found no proof that staff help mobile money fraudsters and blames social engineering, a manager was reported saying on 10 November 2026. The post Ghana Phone Firm MTN Denies Staff Fraud Role appeared first on The Rio Times .",
      "src": "Rio Times",
-     "lead": "Egypt matters to Africa because it holds the Suez Canal, shares the Nile with Ethiopia and Sudan, borders Sudan and has the Rafah crossing into Gaza on its frontier. It has about 118 million people and an economy worth US$365 billion in 2025, according to the World Bank, the global development lender."
+     "lead": "MTN Ghana was reported on Tuesday 10 November 2026 as saying it has found no evidence that its staff help fraudsters steal from mobile money accounts (reported, not confirmed by The Rio Times). Mobile money, or MoMo, lets people hold and send cash through a phone-based wallet."
     },
     {
-     "dt": "2026-11-10T15:10:14+00:00",
-     "title": "Honduras People and Ethnic Groups Explained",
-     "link": "https://www.riotimesonline.com/honduras-population-ethnic-groups-2026/",
-     "desc": "Honduras population explained: about 11.0 million people, nine Indigenous and Afro-Honduran peoples, where they live and US$12.2 billion in remittances. The post Honduras People and Ethnic Groups Explained appeared first on The Rio Times .",
+     "dt": "2026-11-10T22:38:08+00:00",
+     "title": "Morocco’s Sulphur Imports Hit US$3.2 Billion",
+     "link": "https://www.riotimesonline.com/morocco-sulphur-imports-ocp-nine-months-2026/",
+     "desc": "Morocco's sulphur bill reached about US$3.2 billion by September 2026, nearly triple a year earlier, and phosphate group OCP reported a first-half loss. The post Morocco’s Sulphur Imports Hit US$3.2 Billion appeared first on The Rio Times .",
      "src": "Rio Times",
-     "lead": "Honduras is a country of about 11 million people, most of them mestizo (people of mixed Spanish and Indigenous ancestry), with a smaller mix of Indigenous and Afro-Caribbean peoples. This guide explains who they are, where they live and why so many have family in the United States."
+     "lead": "Morocco spent 30.9 billion dirhams (about US$3.2 billion) on imported sulphur in the first nine months of 2026, almost three times the 11.2 billion dirhams (about US$1.1 billion) of a year earlier, according to the Office des Changes, the national foreign-trade statistics office."
     },
     {
-     "dt": "2026-11-10T14:52:23+00:00",
-     "title": "South Africa Has 14 Days to Name City Mayors",
-     "link": "https://www.riotimesonline.com/south-africa-council-mayor-deadline-14-days-2026/",
-     "desc": "The Municipal Structures Act gives councils 14 days to meet; 127 of 213 have no majority party, and a bill would stretch the clock to 30 days. The post South Africa Has 14 Days to Name City Mayors appeared first on The Rio Times .",
+     "dt": "2026-11-10T22:37:59+00:00",
+     "title": "Airtel Africa Buys Back 800,000 Shares",
+     "link": "https://www.riotimesonline.com/airtel-africa-share-buyback-new-tranche/",
+     "desc": "Airtel Africa bought about 800,000 shares in two days at 282.16 pence each, the first purchases of a new tranche that can run to 22 December 2026. The post Airtel Africa Buys Back 800,000 Shares appeared first on The Rio Times .",
      "src": "Rio Times",
-     "lead": "South Africa’s new city councils have until Sunday 22 November 2026, by our count, to meet and choose mayors. In Johannesburg, the first offer on the table is that both rival leaders, Helen Zille and Herman Mashaba, step aside. For US readers, the stakes are local services and contracts in big cities such as Johannesburg."
+     "lead": "Airtel Africa, the mobile phone and mobile money group listed in London and Lagos, bought 799,925 of its own shares (about 800,000) on Thursday 5 and Friday 6 November 2026. It paid an average of 282.16 pence (hundredths of a pound) a share, about £2.26 million (about US$3.0 million), and will cancel every share it buys."
     },
     {
-     "dt": "2026-11-10T14:52:08+00:00",
-     "title": "Only Cape Town Won Outright in South Africa",
-     "link": "https://www.riotimesonline.com/south-africa-metro-election-results-final-2026/",
-     "desc": "South Africa's final local results leave Cape Town as the only big city with a majority party, so Johannesburg, Tshwane and Durban must build coalitions. The post Only Cape Town Won Outright in South Africa appeared first on The Rio Times .",
-     "src": "Rio Times",
-     "lead": "South Africa’s final local election results leave one big city with a clear winner and seven that must bargain. Cape Town is the only one of the country’s eight metros, its largest city councils, where a single party won a majority."
+     "dt": "2026-11-10T17:56:16+00:00",
+     "title": "Bible, Family, and Property: Who is Paraguay’s New President, Pedro Alliana?",
+     "link": "https://www.brasildefato.com.br/2026/11/10/bible-family-and-property-who-is-paraguays-new-president-pedro-alliana/",
+     "desc": "On Friday, October 6, Pedro Alliana was ushered in as president of Paraguay. His ascension followed the impeachment of President Santiago Peña amid the Ueno Bank crisis. Members of Javier Milei’s administration in Argentina applauded Alliana’s arrival to power. According to an Argentine official who spoke to the news channel TN, the new Paraguayan president […] Source",
+     "src": "Brasil de Fato",
+     "lead": "Todos os conteúdos de produção exclusiva e de autoria editorial do Brasil de Fato podem ser reproduzidos, desde que não sejam alterados e que se deem os devidos créditos. On Friday, October 6, Pedro Alliana was ushered in as president of Paraguay. His ascension followed the impeachment of President Santiago Peña amid the Ueno Bank crisis."
     }
    ]
   },
@@ -642,44 +642,44 @@
    "flag": "🇷🇺",
    "items": [
     {
-     "dt": "2026-11-10T19:09:36+03:00",
-     "title": "Hungary to support any country’s EU accession — Magyar",
-     "link": "https://tass.com/world/2215677",
-     "desc": "The Hungarian Prime Minister believes the accession must be based on the individual achievements of each country",
+     "dt": "2026-11-11T01:46:05+03:00",
+     "title": "Netanyahu had difficult conversation with Trump over Iran — portal",
+     "link": "https://tass.com/world/2215791",
+     "desc": "According to a source cited by Ynet, the discussion focused on the resumption of a military operation",
      "src": "TASS English",
-     "lead": "BERLIN, November 10. /TASS/. Hungary supports opening EU accession negotiations with Moldova and several Western Balkan countries, as it believes they are ready, Hungarian Prime Minister Peter Magyar said at a press conference in Berlin following talks with German Chancellor Friedrich Merz."
+     "lead": "TEL AVIV, November 11. /TASS/. Israeli Prime Minister Benjamin Netanyahu had \"a particularly difficult and sharp conversation\" with US President Donald Trump over the weekend on the subject of resuming a military operation against Iran, the Ynet portal wrote, citing a source."
     },
     {
-     "dt": "2026-11-10T18:55:37+03:00",
-     "title": "OSCE faces very serious difficulties — Kneissl",
-     "link": "https://tass.com/world/2215675",
-     "desc": "The organization can cease to exist at any time, since it does not have a founding document, former Austrian Foreign Minister Karin Kneissl said",
+     "dt": "2026-11-11T01:13:56+03:00",
+     "title": "Iraqi Sunni politician Ahmed al-Alwani killed in Beirut — TV",
+     "link": "https://tass.com/emergencies/2215789",
+     "desc": "Lebanese security services are tracking down the perpetrators and have already detained one suspect",
      "src": "TASS English",
-     "lead": "MOSCOW, November 10. /TASS/. The Organization for Security and Co-operation in Europe (OSCE) is currently experiencing very serious difficulties and has many shortcomings, former Austrian Foreign Minister, head of the \"G.O.R.K.I.\" center at St. Petersburg State University Karin Kneissl said."
+     "lead": "BEIRUT, November 11. /TASS/. The body of former Iraqi lawmaker and Sunni politician Ahmed al-Alwani was discovered by police on Tuesday in Beirut's Tariq el-Jdideh neighborhood, the MTV Lebanon television channel reported."
     },
     {
-     "dt": "2026-11-10T18:50:04+03:00",
-     "title": "Venezuela signs memorandum of understanding with US company ExxonMobil",
-     "link": "https://tass.com/economy/2215673",
-     "desc": "The acting President noted that the memorandum of understanding covers oil fields with \"reserves amounting to billions of barrels of oil,\" including both brownfield and greenfield projects",
+     "dt": "2026-11-11T00:52:14+03:00",
+     "title": "Russian presidential envoy thanks Kushner, Witkoff for facilitating Trump’s peace effort",
+     "link": "https://tass.com/politics/2215785",
+     "desc": "Kirill Dmitriev added that peacemakers \"will prevail\"",
      "src": "TASS English",
-     "lead": "CARACAS, November 10. /TASS/. The Venezuelan state-owned oil and gas company Petroleos de Venezuela S.A. (PDVSA) and the US company ExxonMobil have signed a memorandum of understanding to clear the way for specific investment agreements, the country’s acting President Delcy Rodriguez announced. She attended the signing ceremony."
+     "lead": "MOSCOW, November 11. /TASS/. Russian Presidential Special Representative for Investment and Economic Cooperation with Foreign Countries and Russian Direct Investment Fund (RDIF) CEO Kirill Dmitriev thanked US special presidential envoy Steve Witkoff and the US president’s son-in-law Jared Kushner for their effort to promote Donald Trump’s Ukraine peace plan."
     },
     {
-     "dt": "2026-11-10T18:37:39+03:00",
-     "title": "Moldova Readies Full Alignment With EU Sanctions on Russia and Belarus",
-     "link": "https://www.themoscowtimes.com/2026/11/10/moldova-readies-full-alignment-with-eu-sanctions-on-russia-and-belarus-a94223",
-     "desc": "Moldova said it has already matched 91% of EU sanctions against the two countries, with a “small lag” in the sectoral sanctions package introduced in 2014.",
+     "dt": "2026-11-10T20:06:14+03:00",
+     "title": "Why Did Moscow Police Just Arrest Scores of Teenagers?",
+     "link": "https://www.themoscowtimes.com/2026/11/10/kitai-gorodwhy-did-moscow-police-just-arrest-scores-of-teenagers-a94219",
+     "desc": "Moscow police have been ramping up the pressure on teenagers in Kitai-Gorod — a popular hangout spot — for months.",
      "src": "Moscow Times",
-     "lead": "Moldova said it plans to fully join the EU’s sanctions regime against Russia and Belarus as it seeks to become a member of the bloc sometime in the coming years. “The country will fully align with the EU’s sanctions policy, including on Russia and Belarus,” Moldovan Foreign Minister Mihai Popșoi was quoted as saying by the Interfax news agency at an EU enlar…"
+     "lead": "Moscow police arrested scores of “nonconformist” teenagers on Saturday night in a massive raid on the popular nightlife district of Kitai-Gorod. Telegram news outlets put the number of detainees at between 100 and 300 , with most estimates ranging from 150 to 200. Eyewitnesses said as many as 15 police vans arrived in Kitai-Gorod at around 8:00 p.m."
     },
     {
-     "dt": "2026-11-10T17:42:00+03:00",
-     "title": "Nearly 3% of Cloud Customer Data Permanently Lost After Drone Strikes, Yandex Says",
-     "link": "https://www.themoscowtimes.com/2026/11/10/nearly-3-of-cloud-customer-data-permanently-lost-after-drone-strikes-yandex-says-a94221",
-     "desc": "The tech company attributed the data loss to “critical damage to equipment” and a failure by some cloud customers to maintain external backups on the platform.",
+     "dt": "2026-11-10T19:17:21+03:00",
+     "title": "Tanker Carrying Russian Diesel Halts Off U.S. Coast, Shipping Data Shows",
+     "link": "https://www.themoscowtimes.com/2026/11/10/tanker-carrying-russian-diesel-halts-off-us-coast-shipping-data-shows-a94224",
+     "desc": "Eastmed, the Greece-based manager of the ship, said a port of discharge had not yet been finalized.",
      "src": "Moscow Times",
-     "lead": "Yandex said Tuesday that it restored access to around 97% of cloud customer data affected by last month’s Ukrainian drone strikes on its data centers, though the remaining 3% has been permanently lost."
+     "lead": "A tanker ship carrying the first cargo of Russian diesel for the United States has come to a halt off the U.S. east coast, shipping data showed Tuesday, with its operator saying its destination had not yet been decided. U.S."
     }
    ]
   },
@@ -689,44 +689,44 @@
    "flag": "🇰🇷",
    "items": [
     {
-     "dt": "2026-11-10T23:49:10+09:00",
-     "title": "(LEAD) Financial Security Institute reports data leak following hacking attack",
-     "link": "https://en.yna.co.kr/view/AEN20261110010651315",
-     "desc": "SEOUL, Nov. 10 (Yonhap) -- South Korea's state-run Financial Security Institute ...",
+     "dt": "2026-11-11T07:06:30+09:00",
+     "title": "(EDITORIAL from Korea JoongAng Daily on Nov. 11)",
+     "link": "https://en.yna.co.kr/view/AEN20261111000900315",
+     "desc": "Corporate donations tied to audit witness exemptions threaten the integrity of p...",
      "src": "Yonhap English",
-     "lead": "This will let Google show Yonhap news articles that match or are related to your search SEOUL, Nov. 10 (Yonhap) -- South Korea's state-run Financial Security Institute (FSI) reported a data leak following a hacking attack targeting its security assessment system, officials said Tuesday."
+     "lead": "This will let Google show Yonhap news articles that match or are related to your search End lawmakers' corporate fund-raising during audits Corporate donations tied to audit witness exemptions threaten the integrity of parliamentary oversight and must end."
     },
     {
-     "dt": "2026-11-10T22:54:52+09:00",
-     "title": "S. Korean, Canadian FMs discuss N. Korea, bilateral issues in Paris",
-     "link": "https://en.yna.co.kr/view/AEN20261110010800315",
-     "desc": "SEOUL, Nov. 10 (Yonhap) -- Foreign Minister Cho Hyun met with his Canadian count...",
+     "dt": "2026-11-11T07:06:07+09:00",
+     "title": "(EDITORIAL from Korea Times on Nov. 11)",
+     "link": "https://en.yna.co.kr/view/AEN20261111000800315",
+     "desc": "Industry minister calls for deregulation",
      "src": "Yonhap English",
-     "lead": "This will let Google show Yonhap news articles that match or are related to your search SEOUL, Nov. 10 (Yonhap) -- Foreign Minister Cho Hyun met with his Canadian counterpart in France on Tuesday and discussed ways to expand cooperation in artificial intelligence, defense and other areas, Seoul's foreign ministry said."
+     "lead": "This will let Google show Yonhap news articles that match or are related to your search The streets of Seoul are already bright with colorful lights and decorations for Christmas. Splashes of red and green and the glitter of small lights create a sense of abundance and festivity."
     },
     {
-     "dt": "2026-11-10T22:29:53+09:00",
-     "title": "(LEAD) S. Korean, U.S. FMs discuss N. Korea, bilateral issues in Paris",
-     "link": "https://en.yna.co.kr/view/AEN20261110010751315",
-     "desc": "SEOUL, Nov. 10 (Yonhap) -- Foreign Minister Cho Hyun met with U.S. Secretary of ...",
+     "dt": "2026-11-11T07:05:52+09:00",
+     "title": "(EDITORIAL from Korea Herald on Nov. 11)",
+     "link": "https://en.yna.co.kr/view/AEN20261111000700315",
+     "desc": "Korea must overhaul education, spending as birth rate falls and population ages",
      "src": "Yonhap English",
-     "lead": "This will let Google show Yonhap news articles that match or are related to your search (ATTN: ADDS more details in paras 3-6) By Oh Seok-min SEOUL, Nov. 10 (Yonhap) -- Foreign Minister Cho Hyun met with U.S. Secretary of State Marco Rubio in France on Tuesday to discuss North Korea and bilateral issues, Seoul's foreign ministry said."
+     "lead": "This will let Google show Yonhap news articles that match or are related to your search Korea must overhaul education, spending as birth rate falls and population ages A country can postpone a budget debate, but it cannot defer the arrival of a smaller generation."
     },
     {
-     "dt": "2026-11-10T20:52:20+08:00",
-     "title": "Seoul says Hangang Bus has not hurt private cruise passenger numbers",
-     "link": "https://www.koreaherald.com/article/10932729",
-     "desc": "The introduction of the Hangang Bus ferry system has not reduced passenger numbers for private cruise ships on the Han River and their overall ridership has increased this year, the Seoul Metropolitan Government said Tuesday. \"Contrary to some reports that introduction of the Hangang Bus has caused a decline in other existing cruise passengers, the overall number of passengers has increased,\" the city government said. The statement came after a local news report Monday stating that passenger num",
+     "dt": "2026-11-11T05:30:00+08:00",
+     "title": "[Kim Seong-kon] Living in an absurd world is probably inevitable",
+     "link": "https://www.koreaherald.com/article/10932552",
+     "desc": "The world is an absurd place. For example, it is absurd that good people die early while villains enjoy long lifespans. It is absurd that honest, hardworking people remain poor, while sly, dishonest charlatans make a fortune easily. It is also paradoxical that some people live miserably in underdeveloped countries, while others lead happy lives in affluent, advanced nations. Indeed, such inequities feel deeply absurd because life is short, and we have only one life to live. For soldiers wounded",
      "src": "Korea Herald",
-     "lead": "The introduction of the Hangang Bus ferry system has not reduced passenger numbers for private cruise ships on the Han River and their overall ridership has increased this year, the Seoul Metropolitan Government said Tue"
+     "lead": "The world is an absurd place. For example, it is absurd that good people die early while villains enjoy long lifespans. It is absurd that honest, hardworking people remain poor, while sly, dishonest charlatans make a for"
     },
     {
-     "dt": "2026-11-10T20:19:49+08:00",
-     "title": "Eleven dead, fifty injured in Bulgarian highway pileup",
-     "link": "https://www.koreaherald.com/article/10932718",
-     "desc": "Eleven people died in ‌a traffic accident involving dozens of vehicles on both sides of a foggy stretch of highway in eastern Bulgaria on Tuesday, Prime Minister ‌Rumen Radev said. Police, firefighters and ambulance crews rushed to the scene on the A1 road that links the capital Sofia with the eastern city ⁠of Burgas. Images on local media showed cars and trucks piled up across six lanes of highway, many crushed, overturned or veered off ⁠to the side. Fifty injured people were transported to hos",
+     "dt": "2026-11-11T05:30:00+08:00",
+     "title": "[Tanee Sangrat] Changes in world order, politics around Korean Peninsula",
+     "link": "https://www.koreaherald.com/article/10932551",
+     "desc": "The geopolitical landscape surrounding the Korean Peninsula has been changing rapidly, with the possibility of renewed dialogue between the United States and North Korea emerging as a key focal point. This could do more than simply improve bilateral relations; it could serve as a catalyst for reshaping the Northeast Asian security architecture and the international economic order. Soon after US President Donald Trump on Oct. 19 triggered speculation of a possible meeting with Kim Jong-un by noti",
      "src": "Korea Herald",
-     "lead": "Eleven people died in ‌a traffic accident involving dozens of vehicles on both sides of a foggy stretch of highway in eastern Bulgaria on Tuesday, Prime Minister ‌Rumen Radev said. Police, firefighters and ambulance crew"
+     "lead": "The geopolitical landscape surrounding the Korean Peninsula has been changing rapidly, with the possibility of renewed dialogue between the United States and North Korea emerging as a key focal point. This could do more"
     }
    ]
   },
@@ -736,44 +736,44 @@
    "flag": "🇦🇺",
    "items": [
     {
-     "dt": "2026-11-10T15:56:26+00:00",
-     "title": "Twelve dead, 50 injured in Bulgarian motorway pile-up in heavy fog",
-     "link": "https://www.abc.net.au/news/2026-11-11/bulgaria-deadly-pile-up-highway/107371178",
-     "desc": "Footage shows cars and trucks piled up, crushed and overturned across six lanes of the highway, with the country's prime minister declaring a day of mourning.",
+     "dt": "2026-11-10T22:30:51+00:00",
+     "title": "Half of Australia's windfarm pipeline is in slowest-building state",
+     "link": "https://www.abc.net.au/news/2026-11-11/queensland-wind-farm-investment-booming-but-build-slow/107346720",
+     "desc": "Queensland holds half of Australia's proposed onshore wind capacity, but policy and community challenges are making it the slowest state to build the projects.",
      "src": "ABC Australia",
-     "lead": "Bulgaria's prime minister has declared a day of mourning after a massive motorway pile-up killed 12 people and injured 50. The crashes happened during thick fog, which authorities believe was likely the cause. The incident happened on the main road linking the capital Sofia with another major city, Burgas."
+     "lead": "Queensland has 543 operational wind turbines, which could increase to 1,383 thanks to 17 more projects in the pipeline. However, community opposition, rising construction costs and government policy changes are making it the slowest state in which to build wind projects."
     },
     {
-     "dt": "2026-11-10T14:44:03+00:00",
-     "title": "Pete Hegseth vows to fight 'farce' impeachment push",
-     "link": "https://www.abc.net.au/news/2026-11-11/us-defense-secretary-pete-hegseth-fights-impeachment/107367736",
-     "desc": "US Defense Secretary Pete Hegseth vows to fight a push to impeach him, describing the effort as a farce and a stunt and likening it to past impeachments of President Donald Trump.",
+     "dt": "2026-11-10T22:28:54+00:00",
+     "title": "Breaking: Townsville hospital could have been mitigated urology failings years earlier",
+     "link": "https://www.abc.net.au/news/2026-11-11/urology-patient-hospital-investigation-townsville-queensland/107368260",
+     "desc": "An independent investigation has found failings in urology at Townsville Hospital and Health Service could have been mitigated by the board years earlier.",
      "src": "ABC Australia",
-     "lead": "US Defense Secretary Pete Hegseth has vowed to fight a push to impeach him, describing the effort as a farce and a stunt, and likening it to past impeachments of President Donald Trump. \"What one disgruntled and defeated congressman is attempting is not oversight, and it's not accountability ,\" Mr Hegseth told a press conference at the Pentagon."
+     "lead": "An independent investigation into Townsville Hospital and Health Service has found widespread urology failings could have been mitigated by the health service board years earlier. The Queensland Health probe was announced in September 2025 after concerns were raised about a Townsville urology patient who suffered disrupted care and a serious adverse event."
     },
     {
-     "dt": "2026-11-10T14:21:50+00:00",
-     "title": "Fresh round of Ukraine-Russia talks held as Trump insists peace close",
-     "link": "https://www.abc.net.au/news/2026-11-11/ukraine-russia-talks-abu-dhabi/107371042",
-     "desc": "Envoys from Kyiv, Moscow and Washington DC discuss security guarantees, territorial concessions and a Europe-wide security framework at their first meeting since February.",
+     "dt": "2026-11-10T22:16:06+00:00",
+     "title": "Breaking: Macquarie faces $14m fine for savings rate failures",
+     "link": "https://www.abc.net.au/news/2026-11-11/asic-sues-macquarie-for-savings-rates-failures/107371760",
+     "desc": "Macquarie Bank has admitted to failures in the promotion of its \"welcome\" interest rate for new savings account customers.",
      "src": "ABC Australia",
-     "lead": "Envoys from Kyiv, Moscow and Washington DC discuss security guarantees, territorial concessions and a Europe-wide security framework at their first meeting since February. Despite Donald Trump insisting a deal can be done, the trilateral failed to provide any breakthroughs."
+     "lead": "Macquarie Bank has admitted to failures in the promotion of its \"welcome\" interest rate for new savings account customers. The bank has admitted to breaching the Corporations Act and could face a $14 million penalty, in proceedings brought by ASIC."
     },
     {
-     "dt": "2026-11-10T14:15:32+00:00",
-     "title": "US moves aircraft from UK base amid reported Iran threat",
-     "link": "https://www.abc.net.au/news/2026-11-11/us-aircaft-evated-from-second-uk-airbase-for-iran-threat/107370924",
-     "desc": "Iran has denied any links to specific attacks in Britain, but its Revolutionary Guards have said airbases used by US forces there and in other countries are legitimate targets.",
+     "dt": "2026-11-10T22:04:36+00:00",
+     "title": "Coral colony the size of three MCGs thriving off remote Australian island",
+     "link": "https://www.abc.net.au/news/2026-11-11/massive-coral-colony-found-off-the-cocos-keeling-islands/107367586",
+     "desc": "An enormous rose coral colony, one of the largest ever recorded, is mapped by a team of researchers off the Cocos (Keeling) Islands.",
      "src": "ABC Australia",
-     "lead": "Britain has insisted its airbases remain safe after the US military moved several aircraft from RAF Mildenhall, in eastern England. It comes as US media report the evacuations were prompted by a threat from Iran."
+     "lead": "A 1.56km rose coral colony has been discovered in waters off the Cocos (Keeling) Islands. While local divers have seen different parts over decades, researchers were stunned by the coral formation's actual size. Researchers will use DNA to determine if the colony is made up of one organism or many genetically distinct individuals."
     },
     {
-     "dt": "2026-11-10T11:30:13+00:00",
-     "title": "Eleven unknown Australian soldiers killed in WWI formally identified",
-     "link": "https://www.abc.net.au/news/2026-11-10/eleven-australian-soldiers-killed-wwi-formally-idenified/107370258",
-     "desc": "The 11 Australian soldiers killed in World War I, who were long commemorated as unknown soldiers, have been identified through extensive historical research, archaeological investigations, and DNA analysis.",
+     "dt": "2026-11-10T21:58:15+00:00",
+     "title": "Gold Coast AFLW player delisted just weeks out from giving birth",
+     "link": "https://www.abc.net.au/news/2026-11-11/aflw-gold-coast-georgia-clayden-delisted-while-pregnant/107371624",
+     "desc": "The AFLW's pregnancy policy is called into question with a Suns player delisted just weeks out from giving birth.",
      "src": "ABC Australia",
-     "lead": "Eleven Australian soldiers killed in World War I have been formally identified for the first time to ensure their service and sacrifice are recognised by future generations. The men, long commemorated as unknown soldiers, were identified through extensive historical research, archaeological investigations, and DNA analysis."
+     "lead": "Fri, 30 Oct, 7:15 pm, Final score, Cats 88, Bulldogs 20"
     }
    ]
   },
@@ -783,44 +783,44 @@
    "flag": "🇪🇸",
    "items": [
     {
-     "dt": "2026-11-10T15:16:15+00:00",
-     "title": "Alberto Núñez Feijóo, Spain’s opposition leader: ‘Whether a coalition government with Vox is formed does not depend on me’",
-     "link": "https://english.elpais.com/spain/2026-11-10/alberto-nunez-feijoo-spains-opposition-leader-whether-a-coalition-government-with-vox-is-formed-does-not-depend-on-me.html",
-     "desc": "With polls pointing to a People’s Party victory on November 29, the politician is leaving the door open to governing with support from the far-right group",
+     "dt": "2026-11-10T19:48:02+00:00",
+     "title": "‘Money Heist’ lines up a new score while continuing to strike gold for Netflix nearly a decade after its debut",
+     "link": "https://english.elpais.com/culture/2026-11-10/money-heist-lines-up-a-new-score-while-continuing-to-strike-gold-for-netflix-nearly-a-decade-after-its-debut.html",
+     "desc": "The franchise has wrapped filming on ‘Buscametales, starring Fernando Cayo and Javier Rey, while the original series is still one of the platform’s most-watched titles",
      "src": "El País English",
-     "lead": "With polls pointing to a People’s Party victory on November 29, the politician is leaving the door open to governing with support from the far-right group Alberto Núñez Feijóo, 65, leader of Spain’s mainstream conservative People’s Party (PP), is leading opinion polls ahead of the general election on November 29 ."
+     "lead": "The franchise has wrapped filming on ‘Buscametales, starring Fernando Cayo and Javier Rey, while the original series is still one of the platform’s most-watched titles “The Money Heist universe continues.” With a mysterious teaser, Children of the Revolution playing in the background, the face of Álvaro Morte (The Professor), and that brief tagline, Netflix…"
     },
     {
-     "dt": "2026-11-10T14:40:05+00:00",
-     "title": "Pete Hegseth on impeachment effort: ‘It is a farce and everybody knows it’",
-     "link": "https://english.elpais.com/usa/2026-11-10/pete-hegseth-on-impeachment-effort-it-is-a-farce-and-its-a-stunt-and-everybody-knows-it.html",
-     "desc": "The defense secretary held his first press conference in six months after Republican Congressman Thomas Massie launched proceedings to remove him from office",
+     "dt": "2026-11-10T18:33:23+00:00",
+     "title": "Vatican investigation into the Sodalitium reveals ovary removals and the use of psychiatric drugs to ‘treat’ homosexuality",
+     "link": "https://english.elpais.com/international/2026-11-10/vatican-investigation-into-the-sodalitium-reveals-ovary-removals-and-the-use-of-psychiatric-drugs-to-treat-homosexuality.html",
+     "desc": "As Pope Leo XIV arrives in Peru, 250 victims of the now-defunct ultraconservative group have come forward, while the Holy See is still trying to trace the organization’s hidden assets in order to compensate them",
      "src": "El País English",
-     "lead": "The defense secretary held his first press conference in six months after Republican Congressman Thomas Massie launched proceedings to remove him from office The countdown to the impeachment proceedings against Defense Secretary Pete Hegseth is advancing, while the Pentagon chief is making clear that he intends to fight for his political survival."
+     "lead": "As Pope Leo XIV arrives in Peru, 250 victims of the now-defunct ultraconservative group have come forward, while the Holy See is still trying to trace the organization’s hidden assets in order to compensate them EL PAÍS launched an investigation into clerical child sexual abuse in the Spanish Church in 2018 and maintains an updated database with all known ca…"
     },
     {
-     "dt": "2026-11-10T12:47:24+00:00",
-     "title": "Revolution against Lyme disease: a new vaccine kills bacteria in ticks’ gut",
-     "link": "https://english.elpais.com/health/2026-11-10/revolution-against-lyme-disease-a-new-vaccine-kills-bacteria-in-ticks-gut.html",
-     "desc": "The European Medicines Agency begins evaluation of a drug that reached 74% efficacy in trials and could prevent Europe’s main vector-borne infection",
+     "dt": "2026-11-10T16:56:54+00:00",
+     "title": "How Ueno, the Paraguayan bank that promised customers 40% cashback, went bust",
+     "link": "https://english.elpais.com/economy-and-business/2026-11-10/how-ueno-the-paraguayan-bank-that-promised-customers-40-cashback-went-bust.html",
+     "desc": "Regulators shut down the lender after losses tied to lending to affiliated companies left it unable to meet solvency requirements",
      "src": "El País English",
-     "lead": "The European Medicines Agency begins evaluation of a drug that reached 74% efficacy in trials and could prevent Europe’s main vector-borne infection A vaccine with an unusual mechanism could become the first major preventive tool against Lyme disease if Europe decides to approve this new medical strategy, which is still under study."
+     "lead": "Regulators shut down the lender after losses tied to lending to affiliated companies left it unable to meet solvency requirements In November 2023, Grupo Vázquez, a business conglomerate with interests spanning virtually every sector of Paraguay’s economy, unveiled a new online bank intended to replicate the success of neobanks such as Revolut ."
     },
     {
-     "dt": "2026-11-10T12:15:43+00:00",
-     "title": "Daniel Ortega reappears in Nicaragua looking weakened after more than two months of absence",
-     "link": "https://english.elpais.com/international/2026-11-10/daniel-ortega-reappears-in-nicaragua-looking-weakened-after-more-than-two-months-of-absence.html",
-     "desc": "The longtime strongman, about to turn 81, showed up at a public event in Managua but his condition failed to dispel speculation about his health",
+     "dt": "2026-11-10T16:41:15+00:00",
+     "title": "From El Mencho to R2: Mexico’s offensive against the Jalisco New Generation Cartel",
+     "link": "https://english.elpais.com/international/2026-11-10/from-el-mencho-to-r2-mexicos-offensive-against-the-jalisco-new-generation-cartel.html",
+     "desc": "Backed by intelligence cooperation with the United States, Mexican authorities have been pursuing and capturing high-priority targets tied to the group for nearly a year",
      "src": "El País English",
-     "lead": "The longtime strongman, about to turn 81, showed up at a public event in Managua but his condition failed to dispel speculation about his health Daniel Ortega reappeared in public on the night of Monday, November 9 after 68 days of uncertainty about his health."
+     "lead": "Backed by intelligence cooperation with the United States, Mexican authorities have been pursuing and capturing high-priority targets tied to the group for nearly a year Rafael “R2″ Álvarez Ayala, one of the top leaders of the Jalisco New Generation Cartel (CJNG), was arrested on Sunday in Zapopan, part of the metropolitan area surrounding the Mexican city o…"
     },
     {
-     "dt": "2026-11-10T11:18:40+00:00",
-     "title": "ICE raids continue while Democrats prepare their offensive against the immigration agency from Congress",
-     "link": "https://english.elpais.com/usa/2026-11-10/ice-raids-continue-while-democrats-prepare-their-offensive-against-the-immigration-agency-from-congress.html",
-     "desc": "With majorities in both chambers starting in January, lawmakers are pushing a pathway to citizenship for millions of undocumented people but are split between reforming or abolishing ICE",
+     "dt": "2026-11-10T16:37:29+00:00",
+     "title": "Sex-for-contracts allegations rock Gustavo Petro and Colombia’s left",
+     "link": "https://english.elpais.com/international/2026-11-10/sex-for-contracts-allegations-rock-gustavo-petro-and-colombias-left.html",
+     "desc": "The claims have set off a process of self-examination within the Historic Pact as Abelardo de la Espriella’s government seeks to capitalize on the fallout",
      "src": "El País English",
-     "lead": "With majorities in both chambers starting in January, lawmakers are pushing a pathway to citizenship for millions of undocumented people but are split between reforming or abolishing ICE Just a few months ago it seemed unthinkable even to begin discussing a plan to legalize more than 10 million undocumented people and propose reforms or even abolish the Immi…"
+     "lead": "The claims have set off a process of self-examination within the Historic Pact as Abelardo de la Espriella’s government seeks to capitalize on the fallout Gustavo Petro’s private life has become the focus of public debate in Colombia. The allegations against the former president have left Colombia’s left-wing opposition in a difficult position."
     }
    ]
   },
@@ -830,44 +830,44 @@
    "flag": "🇲🇽",
    "items": [
     {
-     "dt": "2026-11-10T14:00:50+00:00",
-     "title": "‘We need to recover respect for the apparently non-living’: Yameli Guadalupe Aguilar Duarte on geodiversity",
-     "link": "https://mexiconewsdaily.com/culture/geodiversity-interview-yameli-guadalupe-aguilar-duarte/",
-     "desc": "\"Respect for the non-living\" world of rocks and landforms is explored in this interview with scientist Yameli Guadalupe Aguilar Duarte, who studies geodiversity in the Yucatán. The post ‘We need to recover respect for the apparently non-living’: Yameli Guadalupe Aguilar Duarte on geodiversity appeared first on Mexico News Daily",
+     "dt": "2026-11-10T22:58:46+00:00",
+     "title": "Mexico’s auto parts sector posts best month on record",
+     "link": "https://mexiconewsdaily.com/business/mexico-auto-parts-production-value/",
+     "desc": "The value of auto parts production in Mexico increased 9.1% year over year in August to reach US $11.118 billion, according to the National Auto Parts Industry (INA), a trade association. The post Mexico’s auto parts sector posts best month on record appeared first on Mexico News Daily",
      "src": "Mexico News Daily",
-     "lead": "Geodiversity might be biodiversity’s lesser-known sibling, but bringing attention to its importance has become a priority for Dr. Yameli Guadalupe Aguilar Duarte. A scientist at the National Institute for Forestry, Agriculture and Livestock Research (Inifap), she is currently working on a project studying karren formations in the Yucatán Peninsula."
+     "lead": "The value of auto parts production in Mexico increased 9.1% year over year in August to reach US $11.118 billion, according to the National Auto Parts Industry (INA), a trade association. That is the highest monthly production value on record for Mexico’s auto parts industry."
     },
     {
-     "dt": "2026-11-09T23:53:52+00:00",
-     "title": "Sargassum season is officially over, a month later than last year and with nearly double the seaweed",
-     "link": "https://mexiconewsdaily.com/news/sargassum-seasons-official-over-month-later-last-year/",
-     "desc": "It's not to say that as of now there won't be another strand of the noxious seaweed on the beaches until next spring, but approaching cold fronts cooling the ocean temperature should mean that Quintana Roo will catch a break — for a while. The post Sargassum season is officially over, a month later than last year and with nearly double the seaweed appeared first on Mexico News Daily",
+     "dt": "2026-11-10T22:26:33+00:00",
+     "title": "In Mazatlán, García Harfuch announces US $48M security package for Sinaloa",
+     "link": "https://mexiconewsdaily.com/news/garcia-harfuch-sinaloa-security-investment/",
+     "desc": "The investment will provide 200 armored vehicles and motorcycles, three surveillance drones and radio equipment to police forces in Sinaloa, as well as a new highway surveillance center to monitor the Culiacán-Mazatlán-Durango corridor. The post In Mazatlán, García Harfuch announces US $48M security package for Sinaloa appeared first on Mexico News Daily",
      "src": "Mexico News Daily",
-     "lead": "Sargassum season in the Mexican Caribbean has officially ended. The conclusion date came a month later than in 2025 , but finally, autumn’s cold fronts are bringing a drop in sea temperature and a consequent reduction in seaweed arrivals."
+     "lead": "Federal Security Minister Omar García Harfuch announced on Monday a 900-million-peso (US $48.2 million) security investment in Sinaloa, a state plagued by cartel violence. García Harfuch announced the investment at an event in Mazatlán, where National Defense Minister Ricardo Trevilla Trejo pledged that the military won’t withdraw from Sinaloa until “conditi…"
     },
     {
-     "dt": "2026-11-09T22:58:52+00:00",
-     "title": "Authorities rescue Río Bravo mayor in Coahuila a day after armed highway abduction",
-     "link": "https://mexiconewsdaily.com/news/rio-bravo-mayor-coahuila-abduction/",
-     "desc": "The mayor \"wandered the whole night\" from an area between San Luis Potosí and Zacatecas where he was captured then boarded a bus that took him to a police checkpoint in Coahuila — at least 80 kilometers north. The post Authorities rescue Río Bravo mayor in Coahuila a day after armed highway abduction appeared first on Mexico News Daily",
+     "dt": "2026-11-10T21:55:41+00:00",
+     "title": "Pemex begins fracking feasibility studies in Coahuila",
+     "link": "https://mexiconewsdaily.com/news/pemex-exploring-fracking-coahuila/",
+     "desc": "Pemex has not yet initiated pilot tests, as the study area must first demonstrate adequate water availability — there must be enough for the fracking process, but it cannot mix with local drinking water sources. The post Pemex begins fracking feasibility studies in Coahuila appeared first on Mexico News Daily",
      "src": "Mexico News Daily",
-     "lead": "The mayor of the northern border municipality of Río Bravo, Tamaulipas, was found safe and sound in the state of Coahuila on Sunday, one day after armed men allegedly stole his vehicle and abducted him on a highway that links the states of Zacatecas and San Luis Potosí."
+     "lead": "Mexico is conducting feasibility studies in Coahuila that could lead to the use of hydraulic fracturing — fracking — to extract gas from under the northern border state. Petróleos Mexicanos (Pemex, the state-owned oil company) has drilled a well in the Coahuilan community of Hidalgo to assess the characteristics and availability of the water and to ensure th…"
     },
     {
-     "dt": "2026-11-09T20:20:27+00:00",
-     "title": "Belgian artist Carsten Höller unveils towering ‘Mexico City Slides’ at Polanco-area mall",
-     "link": "https://mexiconewsdaily.com/culture/carsten-holler-mexico-city-slides-polanco/",
-     "desc": "Four giant, intertwining spiral slides have been installed at Mexico City’s upscale Antara shopping center — and yes, the idea is that mall-goers ride them. The post Belgian artist Carsten Höller unveils towering ‘Mexico City Slides’ at Polanco-area mall appeared first on Mexico News Daily",
+     "dt": "2026-11-10T21:14:37+00:00",
+     "title": "Mexico and China launch joint archaeological project in Yucatán",
+     "link": "https://mexiconewsdaily.com/culture/mexico-china-archaeological-project-yucatan/",
+     "desc": "The collaboration between Mexico's National Institute of Anthropology and History (INAH) and China's Shandong University aims to bring researchers and students from both nations together to preserve the heritage of Yaxcopoil, a small community located within the Chicxulub impact crater. The post Mexico and China launch joint archaeological project in Yucatán appeared first on Mexico News Daily",
      "src": "Mexico News Daily",
-     "lead": "Four giant, intertwining spiral slides — the tallest reaching 38.5 meters, or about 126 feet — have been installed at Mexico City’s upscale Antara shopping center by Carsten Höller, a Belgian-born sculptor known for his interactive works."
+     "lead": "Mexico and China have agreed to an international research and cooperation initiative that aims to expand knowledge and contribute to the preservation of Maya archaeological heritage . On Nov."
     },
     {
-     "dt": "2026-11-09T20:11:48+00:00",
-     "title": "CJNG operator ‘R2’ and 19 others arrested following shootout with Mexican Navy in Guadalajara",
-     "link": "https://mexiconewsdaily.com/news/r2-19-others-arrested-shootout-navy-guadalajara/",
-     "desc": "Authorities located Rafael Álvarez Ayala (\"R2\"), the leader of the \"Los Rs\" cell of the Jalisco New Generation Cartel (CJNG), thanks to intelligence work carried out by the National Intelligence Center and information shared by the U.S. Drug Enforcement Administration (DEA). The post CJNG operator ‘R2’ and 19 others arrested following shootout with Mexican Navy in Guadalajara appeared first on Mexico News Daily",
+     "dt": "2026-11-10T20:41:45+00:00",
+     "title": "Homicides in México state log sharp rise while other states register continued decline: Tuesday’s mañanera recapped",
+     "link": "https://mexiconewsdaily.com/politics/homicides-mexico-state-rise-states-decline-mananera-tuesday/",
+     "desc": "Homicides declined in every federal entity in the first 10 months of 2026. However, the homicide count nearly doubled in México state between September and October — potentially indicating that homicides have been significantly undercounted in the state this year. The post Homicides in México state log sharp rise while other states register continued decline: Tuesday’s mañanera recapped appeared first on Mexico News Daily",
      "src": "Mexico News Daily",
-     "lead": "The alleged leader of a criminal cell linked to the Jalisco New Generation Cartel (CJNG) and 19 other people were detained in Guadalajara on Sunday after a shootout with members of the special operations unit of the Mexican Navy."
+     "lead": "Federal officials presented the government’s monthly security report at President Sheinbaum’s Tuesday morning press conference. The most striking statistic was that México state — a state that includes many municipalities in the metropolitan area of Mexico City — recorded 1,564 homicides in the first 10 months of 2026."
     }
    ]
   },
@@ -877,11 +877,19 @@
    "flag": "🇮🇩",
    "items": [
     {
-     "dt": "2026-11-10T12:00:23+00:00",
-     "title": "Indonesia's vice president offers resignation as questions mount over his eligibility - Union-Bulletin",
-     "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNNVBpNjhxTGU5WWxBVmZnZVd6Y2NaSE5uaGFGVExaUUoxY1gwN2oyNTU3RkhLRmdrYXZCVy1md3VhaVRwalZzUS0tSTItMngwelJaNXhkOFZiRTFtVk1oMlZVSE90b3hNcW5ITVpqN29pRjhSZXlscFpIRUdEWjlpWmNFbV8wYk1xbWJ4ekNGQ1BVVnpyTUp0aUJLal9YT184Wi1SSzljOThrT0ZtV2t6elU4NXczdDFOMnBMUzVELWhGbFhvQkZaazJwMklZblN6aTFIWEY1UDg0ZWFCTFZzZDZ1LUtDX1dHZjB2b1I2YnYzcnpYNFVKTWdlMG93YlhlcUJRY0VuWQ?oc=5",
-     "desc": "Indonesia's vice president offers resignation as questions mount over his eligibility Union-Bulletin",
-     "src": "Union-Bulletin",
+     "dt": "2026-11-10T20:07:34+00:00",
+     "title": "Indonesia’s Industrialization Imperative In Fragmenting Global Economy – OpEd",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc0NvUDNwTGVDaTA0M1dXQTRPYzdVcmhsaVlhR2tOVzBjN2dkc041ZTROYUxnQ1NwcjBvTGRhMldpSlJ6d0E1eXZfbXM3RXl6aDNESTk0MWxxMmtWcjBwZmNxc2F0ejU4YmNjUllFZ3EzX0haQ0FqRUNsMnpNTnJjV2pYNE04MmMxVnRIT3RjN1duNHJiclBMdkZDSTl1YjV4WVdYZHI4WHJabnRiRzVQNFQxN1A?oc=5",
+     "desc": "Indonesia’s Industrialization Imperative In Fragmenting Global Economy – OpEd Eurasia Review",
+     "src": "Eurasia Review",
+     "lead": ""
+    },
+    {
+     "dt": "2026-11-10T12:57:31+00:00",
+     "title": "Indonesia’s vice president offers resignation as questions mount over his eligibility",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWHVBWi04X0c5QmRrT2dWMEJmZ0Iwck1RTEFBME1pV2Y3T0w3ZmxJei1PaXVUZ05YNjQtUnE1YWFuWlBXR0g2Szcxa0k3SVd5TENxVTB5cXphREpwNUstUktSdXl5WTNWVFBOZjZ3QTJlNHppREprU1ZNWlFlNkJZbFc5TGUwQUhKcVRpbGRkZzQ5QjVSMkN2TXNKdEwxWVp0RTFUTTliZFZaQnhNQTRKTDlwUjZXWXd3MzlfbkVhOXZ3VGk1SlUzUG1sNGxmQdIB0wFBVV95cUxPeGhDdWpuZHBZYndvY0FfLW40bWp5OUhZNktsVTBuYlBNYThORFJnckxCM0ZjTE9vSEVyM0otUWtuY3VhNkFCaHdMbHZqdkx1bVhkQ0gxamlBMnVOSW4xejhyUEE4Ul94LXRGcEwzRGpZbHI3ZW5JMTVKZEZ6OE1KMWE3OEhZTzJ1MF9KOFhxR0hoMzhVaWRiRFdpUUFra3pMQUxDd2hPRXRWU1dUOFFsSW85OXJQNXFEYXluNXNnbXQxWUtzSXI3S2FmVHpUa1lCeWpz?oc=5",
+     "desc": "Indonesia’s vice president offers resignation as questions mount over his eligibility myMotherLode.com",
+     "src": "myMotherLode.com",
      "lead": ""
     },
     {
@@ -917,11 +925,11 @@
    "items": [
     {
      "dt": "2026-11-10T13:46:00+03:00",
-     "title": "Yonca Verdioğlu Şık accused of espionage",
-     "link": "https://bianet.org/haber/yonca-verdioglu-sik-accused-of-espionage-325273",
-     "desc": "Feminist Yonca Verdioğlu Şık was taken from her home by police on a prosecutor’s orders over allegations of “political and military espionage.”",
+     "title": "Yonca Verdioğlu Şık released",
+     "link": "https://bianet.org/haber/yonca-verdioglu-sik-released-325273",
+     "desc": "Feminist Yonca Verdioğlu Şık was taken from her home by police on a prosecutor’s orders over allegations of “political and military espionage.” She was released following questioning by the prosecutor at the courthouse.",
      "src": "Bianet English",
-     "lead": "Feminist Yonca Verdioğlu Şık was taken from her home by police on a prosecutor’s orders over allegations of “political and military espionage.”"
+     "lead": "Feminist Yonca Verdioğlu Şık was taken from her home by police on a prosecutor’s orders over allegations of “political and military espionage.” She was released following questioning by the prosecutor at the courthouse."
     },
     {
      "dt": "2026-11-10T12:50:00+03:00",
@@ -963,44 +971,44 @@
    "flag": "🇸🇦",
    "items": [
     {
-     "dt": "2026-11-10T16:11:42+00:00",
-     "title": "Saudi Arabia, US Sign MoU on Strengthening Trade, Investment Cooperation",
-     "link": "https://english.aawsat.com/node/5339781",
+     "dt": "2026-11-10T18:32:20+00:00",
+     "title": "From Saudi Arabia to the Nile Valley: Food Investment Begins at the ‘First Mile’",
+     "link": "https://english.aawsat.com/node/5339847",
      "desc": "",
      "src": "taxonomy/term/2",
-     "lead": "The Federation of Saudi Chambers of Commerce and the US Chamber of Commerce signed on Tuesday a memorandum of understanding aimed at strengthening trade and investment cooperation and expanding opportunities for collaboration between the business sectors between their countries. The signing took place on the sidelines of the B20 Summit in Washington, DC."
+     "lead": "A crop grown in a small African village may never reach the market where it commands its true value. Between the farmer producing food and the investor seeking opportunities in agricultural supply chains lies a divide shaped by gaps in financing, technology, infrastructure and knowledge."
     },
     {
-     "dt": "2026-11-10T16:06:35+00:00",
-     "title": "Saudi FM Attends Saudi-Qatari-E4 Meeting on Sidelines of G7 Ministerial Meeting in Paris",
-     "link": "https://english.aawsat.com/node/5339777",
+     "dt": "2026-11-10T18:08:44+00:00",
+     "title": "Syria Says Killed Leader of Armed Cell in Tartus",
+     "link": "https://english.aawsat.com/node/5339837",
      "desc": "",
      "src": "taxonomy/term/2",
-     "lead": "Saudi Minister of Foreign Affairs Prince Faisal bin Farhan bin Abdullah took part on Tuesday in a ministerial meeting between Saudi Arabia, Qatar, and the E4 countries, France, Germany, Italy, and the United Kingdom, on the sidelines of the Group of Seven (G7) ministerial meeting in Paris."
+     "lead": "Syrian authorities said on Tuesday that they had killed the leader of an armed cell linked to the former government and wounded another member during an operation in the countryside of Tartus."
     },
     {
-     "dt": "2026-11-10T15:59:40+00:00",
-     "title": "Saudi Crown Prince, Greek PM Discuss Bilateral Cooperation",
-     "link": "https://english.aawsat.com/node/5339772",
+     "dt": "2026-11-10T18:04:03+00:00",
+     "title": "Airstrikes, Artillery Fire Wear Down Houthis as Yemeni Army Seizes Strategic Positions",
+     "link": "https://english.aawsat.com/node/5339835",
      "desc": "",
      "src": "taxonomy/term/2",
-     "lead": "Prince Mohammed bin Salman bin Abdulaziz Al Saud, Saudi Crown Prince and Prime Minister, held on Tuesday a telephone call with Greek Prime Minister Kyriakos Mitsotakis. They discussed bilateral relations and ways to strengthen cooperation between the two countries across various fields."
+     "lead": "Yemeni government forces pressed ahead with Operation Dawn of Yemen on Tuesday, stepping up airstrikes, drone attacks and artillery fire against Houthi positions and reinforcements across several fronts, as troops seized more ground in Al-Jawf and fighting continued in Taiz, Dhale and Marib."
     },
     {
-     "dt": "2026-11-10T11:53:58+00:00",
-     "title": "Israeli Fire Kills Father and Son in Gaza, Medics Say",
-     "link": "https://english.aawsat.com/node/5339667",
+     "dt": "2026-11-10T17:57:29+00:00",
+     "title": "Iran Rejects France’s ‘Baseless Accusations’ on Cyberattack",
+     "link": "https://english.aawsat.com/node/5339833",
      "desc": "",
      "src": "taxonomy/term/2",
-     "lead": "Israeli forces ‌killed at least three Palestinians, including a father and his 13-year-old son, in the Gaza Strip on Tuesday, local health officials said. Medics said Fadi Rajab and his son Abubakr were killed in an airstrike that hit the roof of a displacement shelter in the Zeitoun neighborhood in Gaza City, while a ‌third person ‌was killed by gunfire in…"
+     "lead": "Iran on Tuesday said French accusations that it was responsible for cyberattacks on supermarket fridges last month were \"baseless\". \"Iran's foreign ministry categorically rejects the French government's baseless and one-sided accusations against Iran regarding alleged cyber activities in France,\" the ministry said in a statement."
     },
     {
-     "dt": "2026-11-10T11:40:57+00:00",
-     "title": "England Hand First Call-up to Bournemouth Defender Hill",
-     "link": "https://english.aawsat.com/node/5339663",
+     "dt": "2026-11-10T17:48:29+00:00",
+     "title": "Recovering Kompany Returns to Bayern Training Center",
+     "link": "https://english.aawsat.com/node/5339829",
      "desc": "",
      "src": "taxonomy/term/2",
-     "lead": "England have called up uncapped Bournemouth defender James Hill for their Nations League matches against Croatia and Spain. Hill has been added to Thomas Tuchel's squad after center-backs Marc Guehi and Ezri Konsa were ruled out of Thursday's clash with Croatia at Wembley."
+     "lead": "Bayern Munich coach Vincent Kompany has returned to the club's training center as he continues his recovery from meningeal irritation, the Bundesliga champions said Tuesday. The Belgian was rushed to hospital after collapsing on the training pitch in Munich last month, before being diagnosed with the illness."
     }
    ]
   },
@@ -1057,6 +1065,14 @@
    "flag": "🇨🇭",
    "items": [
     {
+     "dt": "2026-11-10T18:01:00+00:00",
+     "title": "Kenya shifts Switzerland diplomatic relations to London",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMTlwbzNYbDdxQ01GeGNyOG5NNFdXQ3ZhVGo5NE90TEZhTV9qaTdkMFl1aTlOODdkaDRpTTF2ZUpLTEI3S3JIWXdMRVY2U3JDY0JGb0FGN2xsYTB2VU5SbnFjNlE2bkpzaXA1aXlRSmp5R2pXOVpIcTU2N3pCek5Ia0w3c1R6YWVicjNVbGVra1NMSWhFc3NPQVY4T2REQm8?oc=5",
+     "desc": "Kenya shifts Switzerland diplomatic relations to London The Star, Kenya",
+     "src": "The Star, Kenya",
+     "lead": ""
+    },
+    {
      "dt": "2026-11-10T09:42:29+00:00",
      "title": "Hackers appear to be blackmailing the federal government—and threatening to sell classified data",
      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQemoza2Npc1NsMUFXUmF2YlFSMmdmTVQxSmowTXozNjZGNzViUkdEc3JtT1J2MFlDcXJlZkdIQUtNTUgycWo3UTJxbkxvbGxiXzF3b1JDeG54WFdWUjBwdU9GTDZ1dTI0SkpQcUtvS2s0OE5wREdKSXJBbV9NaVhXWVpSWjlOd1U3YlVlekE1eWl6UjR3SFZxVU5sbFFESGhqRksxS0g0Y3ZhOGpaMHMxSEtWbWpCUUVwaEpwNzcyZVFIempCa1hvanhCUU95eWpSYTZ4UlBGV3dFSVFyeWhQUTQwUW0?oc=5",
@@ -1075,7 +1091,7 @@
     {
      "dt": "2026-11-10T08:16:00+00:00",
      "title": "Swiss government to involve energy suppliers in drone defence",
-     "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQUDZFcUpJZVZkN1FTX1ByNjcwNWNJWDE4NTJMRUNVZGlEblB2RWs3UkVGVkp3S3VCMEF2dTR3ZV9iN2JMVDhjWk9LM2lXTi1ScG83cndNT1BFSmRDaVdFSFY5MVdHZHlzUkZQTmdVQl8xNXBwamlkNUtzT3NQMElwYjRjMTBHZGlCeDRTUmI4S1RSemdrWVBFV3RpNldSczQ1Wkt1dEJJZi1XeTFoYm14RGp0UEFyT3c1UWhmTEp4UlBSM3FRenIyeS1rVm9OVm54WDZaaTl4Sk9MTXN5aXR1R1pYd2tCb3paMWtHNUx6YlpUc3p4cmc1cS0zUjZxMXBDVUxvTWg5MHpEN0xWTVFTVW11dw?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNkIzRUl3SzJnaFY4RTdhdW9yYjU5enRESlpUYlREWVRjbWhzLXNrN2JIOVZMQ3NGR2hBMnhFTkcyN2FnV2V0Nk42bDk0cy1aQS1xVEROWW1qejdVeXlZN0FYQm1BM3lPRlVuS2FkMkRNQ0xsSks4dzdTVlA3aUdiamdEMG16NzlxVXQ1eGlxeHR2SFpFWVBmV0JBc0FQaWVsakxSWV9oWG8yQ3hJRTVldlR5TG9jdw?oc=5",
      "desc": "Swiss government to involve energy suppliers in drone defence SWI swissinfo.ch",
      "src": "SWI swissinfo.ch",
      "lead": ""
@@ -1087,14 +1103,6 @@
      "desc": "Swiss People’s Party risks alienating voters abroad ahead of 2027 elections SWI swissinfo.ch",
      "src": "SWI swissinfo.ch",
      "lead": ""
-    },
-    {
-     "dt": "2026-11-09T09:34:00+00:00",
-     "title": "Switzerland announced the launch of a new project to support the development of local government in Armenia",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Zb0duMG1hSUtHMW5JQmNjRExyZExIT2t3dGNwMnJkY1dIalpJY25Tdk5SLVU0LXhPajJFVXpIcUVUNTRya1hMeVpQY052ZjV6dFlmWWN6UmZxazJ2S1hRMw?oc=5",
-     "desc": "Switzerland announced the launch of a new project to support the development of local government in Armenia ArmInfo",
-     "src": "ArmInfo",
-     "lead": ""
     }
    ]
   },
@@ -1104,28 +1112,36 @@
    "flag": "🇹🇼",
    "items": [
     {
-     "dt": "2026-11-10T23:59:13+08:00",
-     "title": "石舫亘代夫出征還得幫蔣萬安煮飯 陳佩琪聲援：我跪著擦地就沒人逼！",
-     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5636270",
-     "desc": "九合一選戰進入最後倒數，台北市長蔣萬安的老婆石舫亘「代夫出征」，幫忙跑掃街拜票行程；不只如此，蔣萬安受訪時還說，老婆回家後會幫他準備宵夜，此話一出引發輿論批評。民眾黨創黨主席柯文...…",
+     "dt": "2026-11-11T06:53:56+08:00",
+     "title": "比3號風波後再拋「我屬羊」 秦慧珠一句話笑翻政論現場",
+     "link": "https://news.ltn.com.tw/news/politics/breakingnews/5636407",
+     "desc": "台北市議員秦慧珠日前和民進黨台北市長候選人沈伯洋合照比3引起藍營支持者不滿，雖然秦慧珠喊冤自己的號次也是3號，但藍營支持者與黨主席鄭麗文仍不領情，鄭麗文在專訪時更說秦慧珠「怎麼可...…",
      "src": "自由時報",
-     "lead": "為達最佳瀏覽效果，建議使用 Chrome、Firefox 或 Microsoft Edge 的瀏覽器。 九合一選戰進入最後倒數，台北市長蔣萬安的老婆石舫亘「代夫出征」，幫忙跑掃街拜票行程；不只如此，蔣萬安受訪時還說，老婆回家後會幫他準備宵夜，此話一出引發輿論批評。民眾黨創黨主席柯文哲妻子陳佩琪跳出來幫蔣萬安夫婦說話，提起丈夫先前在法庭上帶著哭腔說出「回家看到陳佩琪跪在地上擦地」、「我們家沒有傭人」這些言論後被嘲諷的往事，表示「女性獨立自主，有相夫教子的能力，會做家事，能煮宵夜，也不是被逼的，就恩愛夫妻的日常，這到底有什麼不好？"
+     "lead": "為達最佳瀏覽效果，建議使用 Chrome、Firefox 或 Microsoft Edge 的瀏覽器。 秦慧珠提到9日晚間陪同市長蔣萬安發送貼紙的狀況，表示大部分的人看到她都蠻開心的，「只有極少數的人對我好像有點意見」。（資料照） 台北市議員秦慧珠日前和民進黨台北市長候選人沈伯洋合照比3引起藍營支持者不滿，雖然秦慧珠喊冤自己的號次也是3號，但藍營支持者與黨主席鄭麗文仍不領情，鄭麗文在專訪時更說秦慧珠「怎麼可以微笑看著沈伯洋」。不過秦慧珠近期許多舉動都被網友形容是在「破圈」，在昨日（10日）播出的政論節目中，秦慧珠一句「我屬羊」，又再度引發熱議。"
     },
     {
-     "dt": "2026-11-10T23:57:45+08:00",
-     "title": "「康橋國際學校」林口校區網路遭駭 家長收勒索信、驚覺個資全外洩",
-     "link": "https://news.ltn.com.tw/news/society/breakingnews/5636370",
-     "desc": "新北市知名貴族私校「康橋國際學校」林口校區驚爆嚴重資安漏洞，該校網路系統遭惡意駭客組織侵入勒索，多名家長陸續收到恐嚇信件，信中不僅精準掌握家長任職公司與職稱等私密個資，更威脅將...…",
+     "dt": "2026-11-11T06:51:31+08:00",
+     "title": "今晨低溫探14度！北台灣濕涼有雨 鋒面「這天」報到再降溫",
+     "link": "https://news.ltn.com.tw/news/life/breakingnews/5636413",
+     "desc": "中央氣象署表示，今天（11日）持續受東北季風影響，清晨各地感受偏涼，中部以北及東半部地區低溫約17至19度，南部為20至22度，建議適時增添衣物。截至上午6時，本島各縣市平地最低...…",
      "src": "自由時報",
-     "lead": "為達最佳瀏覽效果，建議使用 Chrome、Firefox 或 Microsoft Edge 的瀏覽器。 新北市知名貴族私校「康橋國際學校」林口校區驚爆嚴重資安漏洞，該校網路系統遭惡意駭客組織侵入勒索，多名家長陸續收到恐嚇信件，信中不僅精準掌握家長任職公司與職稱等私密個資，更威脅將對學生不利。校方已向家長證實系統遭駭，新北市林口警分局今日接獲報案正全面追查中。 ​據悉，攻擊康橋的駭客組織「Osiris」本月6日上午向校方發出勒索信，要求下載指定瀏覽器並輸入金鑰，否則將把學生與家長個資外洩給犯罪集團使用。隨後數名家長也收到恐嚇信，眼見任職單位與職稱等私密個資全看光，加上駭客揚言對學生不利，讓家長人心惶惶。"
+     "lead": "為達最佳瀏覽效果，建議使用 Chrome、Firefox 或 Microsoft Edge 的瀏覽器。 中央氣象署表示，今天（11日）持續受東北季風影響，清晨各地感受偏涼，中部以北及東半部地區低溫約17至19度，南部為20至22度，建議適時增添衣物。截至上午6時，本島各縣市平地最低氣溫前3依序為台東鹿野鄉14.6度、嘉義義竹鄉14.7度，以及新竹關西鎮15度。 白天各地溫度皆比昨天稍回升，桃園以北、宜蘭及花蓮高溫在23至25度，整日感受稍偏涼，而新竹以南及台東高溫可以來到26至28度，感受較舒適溫暖。 降雨方面，迎風面桃園以北及東半部地區雲量較多，偶有局部降雨，新竹以南地區則為多雲到晴。離島天氣方面，澎湖陰時多雲，21至26度；金門多雲，17至24度；馬祖陰天，17至21度。"
     },
     {
-     "dt": "2026-11-10T23:44:00+08:00",
-     "title": "前9月營收狂增逾3倍！達麗毛利率創20年新高 下一步當「美國房東」",
-     "link": "https://estate.ltn.com.tw/article/29299",
-     "desc": "上事建商達麗建設今年成立滿20年，日前舉辦週年感恩活動，邀集金融機構、合作廠商及各界夥伴，回顧企業成長歷程，並捐出初新臺幣100萬元，支持視障者音樂發展與帕拉運動，將周年祝福轉化為回饋社會的具體行動。…",
+     "dt": "2026-11-11T06:49:34+08:00",
+     "title": "沈伯洋接受愛莉莎莎專訪 網紅狂讚明智之舉",
+     "link": "https://ent.ltn.com.tw/news/breakingnews/5636423",
+     "desc": "民進黨台北市長候選人沈伯洋登上Podcast節目《莎晨報》，卻不見現任市長蔣萬安，愛莉莎莎9日無奈表示早已向蔣萬安提出邀約，卻始終未獲回應，沒想到蔣萬安昨（10）日公開表...…",
      "src": "自由時報",
-     "lead": "上事建商達麗建設今年成立滿20年，日前舉辦週年感恩活動，邀集金融機構、合作廠商及各界夥伴，回顧企業成長歷程，並捐出初新臺幣100萬元，支持視障者音樂發展與帕拉運動，將周年祝福轉化為回饋社會的具體行動。 達麗建設董事長謝志長表示，自2006年接掌經營並成立建設事業部門，2008年公司更名為達麗建設，2010年成立寶信營造，逐步建立開發與營造整合的事業基礎。其後陸續設立高雄、台中及台南辦公室，拓展北、中、南布局，並於2013年由上櫃轉上市，為企業長期發展奠定基礎。 謝志長表示，這20年來，達麗的每一步成長，都來自住戶、合作夥伴、股東及全體同仁的信任與支持。從經營之初，便以「永續經營」為目標，重視品牌長期承諾與持續服務的責任，讓客戶與股東知道，達麗始終都在。"
+     "lead": "〔記者林南谷／台北報導〕民進黨台北市長候選人沈伯洋登上Podcast節目《莎晨報》，卻不見現任市長蔣萬安，愛莉莎莎9日無奈表示早已向蔣萬安提出邀約，卻始終未獲回應，沒想到蔣萬安昨（10）日公開表態願意協調行程，團隊也隨即聯繫，愛莉莎莎卻透露自己將出國，直到選舉才會回來。 對此，網紅 鬼才阿水 大讚沈伯洋接受愛莉莎莎訪問，明智之舉，他說：「選舉邁入最後衝刺階段，沈伯洋接受愛莉莎莎訪談引起熱烈討論，一部分人擔憂她的受眾與既有目標群體不同，也有一部分認為破圈就是要去接觸過去難以觸及的人選，在這黃金衝刺時期，我則認為沈伯洋團隊的選擇是非常正確。"
+    },
+    {
+     "dt": "2026-11-10T23:40:14+08:00",
+     "title": "外媒指立陶宛要求代表處更名 立國議員批政府拿台灣當對中籌碼",
+     "link": "https://www.cna.com.tw/news/aipl/202611100374.aspx",
+     "desc": "（中央社記者游堯茹維爾紐斯10日專電）對於立陶宛據報要求駐立陶宛台灣代表處更名，立陶宛國會議員馬爾德基斯發文批評，政府將台灣當成處理對中關係的籌碼，對台政策反覆，並質疑外交部不理解地緣政治，損害立陶宛的國際主體性與國家安全。",
+     "src": "中央社 政治",
+     "lead": "（中央社記者 游堯茹 維爾紐斯10日專電）對於立陶宛據報要求駐立陶宛台灣代表處更名，立陶宛國會議員馬爾德基斯發文批評，政府將台灣當成處理對中關係的籌碼，對台政策反覆，並質疑外交部不理解地緣政治，損害立陶宛的國際主體性與國家安全。 立陶宛新聞網站Delfi報導，立陶宛外交部在9月底向駐立陶宛代表王雪虹提交一份非官方文件，指台灣在維爾紐斯（Vilnius）設立的代表處現行名稱阻礙雙方經濟關係的發展，並敦促台灣於10月1日前完成更名。10月1日為中國國慶。 Delfi相關報導引發國內關注與批評。馬爾德基斯（Matas Maldeikis，另譯馬瑪竇）隨後在臉書（Facebook）發文，提出針對此次爭議3點看法。 馬爾德基斯首先批評台灣在立陶宛成了中國問題的「人質」，質疑政府是否真正理解中國及其地緣政治布局。"
     },
     {
      "dt": "2026-11-10T22:13:49+08:00",
@@ -1134,14 +1150,6 @@
      "desc": "（中央社記者黃自強吉隆坡10日專電）原訂10月下旬舉行的第11屆台馬經濟合作委員會（MTECC）會議未如期召開，馬來西亞製造業聯合總會總會長李祖國今天表示，他獲知的訊息是會議延後，而非取消；台灣是大馬重要經貿夥伴，雙方仍會維持溝通管道，目前企業生意與投資活動一切如常。",
      "src": "中央社 政治",
      "lead": "（中央社記者 黃自強 吉隆坡10日專電）原訂10月下旬舉行的第11屆台馬經濟合作委員會（MTECC）會議未如期召開，馬來西亞製造業聯合總會總會長李祖國今天表示，他獲知的訊息是會議延後，而非取消；台灣是大馬重要經貿夥伴，雙方仍會維持溝通管道，目前企業生意與投資活動一切如常。 日經亞洲日前引述馬來西亞政府消息人士報導，台灣擱置原定10月下旬與大馬舉行的擴大雙邊貿易會談，並指首相安華（Anwar Ibrahim）8月涉台言論引發的雙邊關係緊張，可能影響未來台灣半導體業者赴大馬投資。 李祖國（Jacob Lee）今天接受中央社記者訪問指出，台馬經濟合作委員會架構下有數個小組須召開會議，其中一個小組尚未開會，今年的委員會會議也隨之延後。"
-    },
-    {
-     "dt": "2026-11-10T22:00:32+08:00",
-     "title": "藍委質疑拖延提供曠世智能資料 財部：依約回復審計部",
-     "link": "https://www.cna.com.tw/news/aipl/202611100356.aspx",
-     "desc": "（中央社記者蘇思云台北10日電）國民黨立委王鴻薇質疑，審計部詢問台企銀投資曠世智能資料，財政部一再拖延。財政部澄清，審計部先前要求相關資料，已在11月6日回復，審計部9日來函增加詢問各事業投資審核與監督等事項，也正在辦理中，將依約定日期回復，並無一再拖延。",
-     "src": "中央社 政治",
-     "lead": "（中央社記者 蘇思云 台北10日電）國民黨立委王鴻薇質疑，審計部詢問台企銀投資曠世智能資料，財政部一再拖延。財政部澄清，審計部先前要求相關資料，已在11月6日回復，審計部9日來函增加詢問各事業投資審核與監督等事項，也正在辦理中，將依約定日期回復，並無一再拖延。 國民黨立委王鴻薇今天在臉書發文指出，民進黨新北市長參選人蘇巧慧妹妹蘇巧純擔任董事的曠世智能，接受國發基金與台企銀創投投資，涉及利益衝突問題。立法院求審計部2週內提供完整報告，詢問審計部發現，財政部11月6日雖提供資料，但業務單位認為需要補充，因此又發函請財政部再補充，質疑財政部一拖再拖。"
     }
    ]
   }
